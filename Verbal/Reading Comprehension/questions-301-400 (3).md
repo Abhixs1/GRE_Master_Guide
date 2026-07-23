@@ -1,6 +1,6 @@
 # GRE Reading Comprehension — Questions 301–400
 
-Part of the [400 Hard Practice Questions](README.md) set. ✅ = correct answer. Every choice is explained.
+Part of the [400 Hard Practice Questions](README.md) set. **Blind practice format** — answers are not shown inline. Check yourself against [answer-key.md](answer-key.md) after attempting.
 
 Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [201–300](questions-201-300.md) · **301–400**
 
@@ -12,83 +12,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 301. The passage's primary purpose is to
 
-❌ A. endorse nudging without reservation — a difficulty is pressed  
-❌ B. describe a pension plan — pensions are one example  
-❌ C. compare nudges and laws in cost — cost is never discussed  
-❌ D. reject behavioral economics — the field's tool is examined, not rejected  
-✅ E. identify an ethical difficulty in nudging that its champions understate — stated in sentence two
+A. endorse nudging without reservation  
+B. describe a pension plan  
+C. compare nudges and laws in cost  
+D. reject behavioral economics  
+E. identify an ethical difficulty in nudging that its champions understate  
 
 ### 302. A nudge, per the author, works by
 
-✅ A. exploiting the biases that make people predictable — the stated mechanism  
-❌ B. coercing people — nudges are explicitly non-coercive  
-❌ C. informing fully — full information is not the mechanism  
-❌ D. regulating markets — nudging is offered as an alternative to regulation  
-❌ E. removing choice — choice is preserved
+A. exploiting the biases that make people predictable  
+B. coercing people  
+C. informing fully  
+D. regulating markets  
+E. removing choice  
 
 ### 303. The author's central worry is that the nudging technique is
 
-❌ A. ineffective — its effectiveness is the source of the worry  
-❌ B. coercive — non-coercion is conceded  
-❌ C. illegal — no legal claim  
-❌ D. rare — nudges are widespread  
-✅ E. neutral about ends and usable for harm — "the method is neutral about ends"
+A. ineffective  
+B. coercive  
+C. illegal  
+D. rare  
+E. neutral about ends and usable for harm  
 
 ### 304. The pension-and-scam contrast illustrates that the same method can
 
-❌ A. only help — the contrast shows otherwise  
-❌ B. never work — it works too well  
-❌ C. replace regulation — a separate claim  
-❌ D. eliminate bias — it exploits bias rather than removing it  
-✅ E. serve good or bad ends depending on the user — the point of the pairing
+A. only help  
+B. never work  
+C. replace regulation  
+D. eliminate bias  
+E. serve good or bad ends depending on the user  
 
 ### 305. "Borrows its ethics entirely from the nudger's intentions" means the method
 
-❌ A. has fixed moral content — the opposite  
-❌ B. is always ethical — no guarantee  
-❌ C. is never ethical — too strong; it can serve good ends  
-✅ D. takes its moral character from who uses it and why — the phrase's sense  
-❌ E. resists misuse — it invites misuse
+A. has fixed moral content  
+B. is always ethical  
+C. is never ethical  
+D. takes its moral character from who uses it and why  
+E. resists misuse  
 
 ### 306. "The hand that wields it" refers to
 
-❌ A. the person nudged — the object, not the agent  
-❌ B. the pension — an outcome  
-❌ C. the regulation — the alternative approach  
-❌ D. the bias — the mechanism, not the agent  
-✅ E. the nudger's intentions — the agency behind the tool
+A. the person nudged  
+B. the pension  
+C. the regulation  
+D. the bias  
+E. the nudger's intentions  
 
 ### 307. It can be inferred that the author regards praise of nudging "as such" as
 
-❌ A. justified — it is called insufficient  
-✅ B. incomplete because it ignores intent — the closing sentence's charge  
-❌ C. impossible — it is common  
-❌ D. coercive — praise is not coercion  
-❌ E. regulatory — praise is not policy
+A. justified  
+B. incomplete because it ignores intent  
+C. impossible  
+D. coercive  
+E. regulatory  
 
 ### 308. The author's tone is best described as
 
-❌ A. enthusiastic — enthusiasm belongs to the champions  
-❌ B. dismissive of all nudges — their appeal is called real  
-✅ C. critically cautionary — a real appeal plus an understated cost  
-❌ D. nostalgic — no past  
-❌ E. alarmist — the warning is reasoned, not urgent alarm
+A. enthusiastic  
+B. dismissive of all nudges  
+C. critically cautionary  
+D. nostalgic  
+E. alarmist  
 
 ### 309. Which observation would most strengthen the author's argument?
 
-❌ A. Evidence that nudges reliably help in every application — this undercuts the author  
-✅ B. Evidence that the same default-enrollment technique has been used to trap people in exploitative contracts — the neutrality-about-ends claim demonstrated  
-❌ C. Proof that pensions exist — trivial  
-❌ D. A survey of economists — opinion  
-❌ E. Evidence that biases are real — the shared premise
+A. Evidence that nudges reliably help in every application  
+B. Evidence that the same default-enrollment technique has been used to trap people in exploitative contracts  
+C. Proof that pensions exist  
+D. A survey of economists  
+E. Evidence that biases are real  
 
 ### 310. The passage develops by
 
-❌ A. celebrating a tool — praise is qualified  
-❌ B. narrating one policy — no case  
-❌ C. presenting statistics — none  
-✅ D. granting a tool's appeal while exposing its moral neutrality — the concessive structure  
-❌ E. rejecting choice — choice is preserved throughout
+A. celebrating a tool  
+B. narrating one policy  
+C. presenting statistics  
+D. granting a tool's appeal while exposing its moral neutrality  
+E. rejecting choice  
 
 ---
 
@@ -98,83 +98,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 311. The passage's primary purpose is to
 
-✅ A. explain that tragedy embodies a different conception of the self than modern readers expect — the thesis  
-❌ B. fault Greek tragedy for shallowness — the charge is answered  
-❌ C. describe a single play — no play is analyzed  
-❌ D. compare Sophocles and novelists in skill — skill is not ranked  
-❌ E. reject the classics — the classics are defended
+A. explain that tragedy embodies a different conception of the self than modern readers expect  
+B. fault Greek tragedy for shallowness  
+C. describe a single play  
+D. compare Sophocles and novelists in skill  
+E. reject the classics  
 
 ### 312. Modern readers, per the author, expect tragedy to offer
 
-❌ A. ritual — not the modern expectation described  
-❌ B. webs of obligation — what tragedy actually offers  
-❌ C. fate — the Greek framework, not the modern expectation  
-✅ D. psychological depth and interior conflict — stated in sentence one  
-❌ E. pollution — again the Greek framework
+A. ritual  
+B. webs of obligation  
+C. fate  
+D. psychological depth and interior conflict  
+E. pollution  
 
 ### 313. Tragic figures are defined, the author says, chiefly by
 
-❌ A. their inner states — explicitly "less by interior states"  
-❌ B. their psychology — the modern lens  
-❌ C. their novelistic depth — an anachronism  
-✅ D. their position in a web of obligation, pollution, and fate — stated verbatim  
-❌ E. their sincerity — never raised
+A. their inner states  
+B. their psychology  
+C. their novelistic depth  
+D. their position in a web of obligation, pollution, and fate  
+E. their sincerity  
 
 ### 314. What looks like "shallow characterization" is, per the author,
 
-✅ A. a different theory of what a person is — the reframing  
-❌ B. a failure of skill — explicitly denied  
-❌ C. primitive psychology — "not primitive attempts at psychology"  
-❌ D. a modern assumption — the assumption is the reader's, not the play's  
-❌ E. an error — no error is conceded
+A. a different theory of what a person is  
+B. a failure of skill  
+C. primitive psychology  
+D. a modern assumption  
+E. an error  
 
 ### 315. To fault Sophocles for "failing to novelize" is to demand that he
 
-✅ A. share our assumptions about the self — the presupposition the author exposes  
-❌ B. write in Greek — he did  
-❌ C. add fate — fate is already central  
-❌ D. remove obligation — obligation is constitutive  
-❌ E. deepen interiority — a restatement of the demand, not what the demand *presupposes*
+A. share our assumptions about the self  
+B. write in Greek  
+C. add fate  
+D. remove obligation  
+E. deepen interiority  
 
 ### 316. The author describes the plays as expressing a world in which the self is constituted by
 
-✅ A. its relations — "constituted by its relations rather than its depths"  
-❌ B. its depths — explicitly contrasted  
-❌ C. its psychology — the modern frame  
-❌ D. its sincerity — never mentioned  
-❌ E. its choices — choice is not the stated principle
+A. its relations  
+B. its depths  
+C. its psychology  
+D. its sincerity  
+E. its choices  
 
 ### 317. It can be inferred that the author regards the "primitive attempts" reading as
 
-❌ A. correct — explicitly rejected  
-✅ B. an anachronistic misjudgment — it applies modern assumptions to an alien framework  
-❌ C. irrelevant — it is the target  
-❌ D. recent — its age is not the issue  
-❌ E. generous but true — neither generous nor true on this account
+A. correct  
+B. an anachronistic misjudgment  
+C. irrelevant  
+D. recent  
+E. generous but true  
 
 ### 318. The author's tone is best described as
 
-❌ A. dismissive of tragedy — tragedy is defended  
-❌ B. celebratory of novels — novels are the misapplied standard  
-✅ C. interpretively sympathetic and analytical — the plays are read on their own terms  
-❌ D. nostalgic — no past is longed for  
-❌ E. alarmed — no alarm
+A. dismissive of tragedy  
+B. celebratory of novels  
+C. interpretively sympathetic and analytical  
+D. nostalgic  
+E. alarmed  
 
 ### 319. Which finding would most support the author's reading?
 
-❌ A. Evidence that tragedies contain rich interior monologue — this supports the modern expectation instead  
-❌ B. Proof that Sophocles existed — trivial  
-❌ C. A survey of classicists — opinion  
-✅ D. Evidence that tragic language dwells on kinship, duty, and pollution rather than private feeling — the relational self, textually confirmed  
-❌ E. Evidence that plays were performed — background
+A. Evidence that tragedies contain rich interior monologue  
+B. Proof that Sophocles existed  
+C. A survey of classicists  
+D. Evidence that tragic language dwells on kinship, duty, and pollution rather than private feeling  
+E. Evidence that plays were performed  
 
 ### 320. The passage develops by
 
-✅ A. reinterpreting an apparent flaw as a different worldview — the governing move  
-❌ B. faulting the plays — it defends them  
-❌ C. narrating one plot — no plot summary  
-❌ D. presenting statistics — none  
-❌ E. rejecting tragedy — the reverse
+A. reinterpreting an apparent flaw as a different worldview  
+B. faulting the plays  
+C. narrating one plot  
+D. presenting statistics  
+E. rejecting tragedy  
 
 ---
 
@@ -184,83 +184,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 321. The passage's primary purpose is to
 
-❌ A. reject attribution science — the science is called careful  
-❌ B. describe a flood — floods are examples  
-❌ C. compare two heat waves — no comparison  
-✅ D. clarify how attribution findings are commonly misread in both directions — the two-error structure  
-❌ E. endorse the skeptics — skeptics commit the second error
+A. reject attribution science  
+B. describe a flood  
+C. compare two heat waves  
+D. clarify how attribution findings are commonly misread in both directions  
+E. endorse the skeptics  
 
 ### 322. To say warming made an event "three times more likely" does NOT mean
 
-❌ A. probabilities shifted — that is exactly what it means  
-❌ B. warming had an effect — an effect is asserted  
-❌ C. the event was rare — rarity is compatible  
-❌ D. attribution is possible — attribution is defended  
-✅ E. the event would not have happened otherwise — the misreading the author blocks
+A. probabilities shifted  
+B. warming had an effect  
+C. the event was rare  
+D. attribution is possible  
+E. the event would not have happened otherwise  
 
 ### 323. The "opposite error" the author names is the claim that
 
-✅ A. no single event can ever be attributed — stated verbatim  
-❌ B. events are certain — the first error's neighborhood  
-❌ C. warming is fake — a stronger denial not stated here  
-❌ D. probabilities are fixed — not the claim described  
-❌ E. floods are common — irrelevant
+A. no single event can ever be attributed  
+B. events are certain  
+C. warming is fake  
+D. probabilities are fixed  
+E. floods are common  
 
 ### 324. The author says probabilities can shift "without any event becoming"
 
-❌ A. more likely — likelihood is precisely what shifts  
-❌ B. rare — rarity is unaffected by the point  
-✅ C. certain or impossible — stated verbatim  
-❌ D. attributable — attribution is affirmed  
-❌ E. human-caused — causal contribution is granted
+A. more likely  
+B. rare  
+C. certain or impossible  
+D. attributable  
+E. human-caused  
 
 ### 325. "The honest statement lies between" two errors, namely
 
-❌ A. science and politics — not the pair  
-❌ B. heat and flood — both are event types  
-❌ C. warming and cooling — not the pair  
-✅ D. overclaiming headlines and denialist skepticism — the pair named  
-❌ E. likelihood and certainty — related concepts, but not the two *errors*
+A. science and politics  
+B. heat and flood  
+C. warming and cooling  
+D. overclaiming headlines and denialist skepticism  
+E. likelihood and certainty  
 
 ### 326. It can be inferred that the author regards the science itself as
 
-❌ A. reckless — "the science is careful"  
-❌ B. worthless — the reverse  
-❌ C. identical to headlines — the two are contrasted  
-❌ D. denialist — the opposite  
-✅ E. careful, though its public translation is not — the closing contrast
+A. reckless  
+B. worthless  
+C. identical to headlines  
+D. denialist  
+E. careful, though its public translation is not  
 
 ### 327. The word "license" most nearly means
 
-❌ A. forbid — the opposite  
-❌ B. certify legally — no legal sense  
-❌ C. sell — irrelevant  
-✅ D. permit or justify — the sense of authorizing an inference  
-❌ E. translate — a different word in the passage
+A. forbid  
+B. certify legally  
+C. sell  
+D. permit or justify  
+E. translate  
 
 ### 328. The author's tone is best described as
 
-❌ A. alarmist — the passage restrains claims rather than amplifying them  
-❌ B. celebratory — nothing celebrated  
-✅ C. precise and corrective — definitional care against two misreadings  
-❌ D. nostalgic — no past  
-❌ E. despairing — the science is affirmed
+A. alarmist  
+B. celebratory  
+C. precise and corrective  
+D. nostalgic  
+E. despairing  
 
 ### 329. Which statement best reflects the author's balanced view?
 
-❌ A. Every extreme event is caused by warming — the overclaiming error  
-✅ B. Warming can raise an event's probability without making it certain or, alternatively, unattributable — the middle position  
-❌ C. No event can be attributed to warming — the denialist error  
-❌ D. Attribution science is meaningless — explicitly denied  
-❌ E. Rare events prove nothing — too sweeping
+A. Every extreme event is caused by warming  
+B. Warming can raise an event's probability without making it certain or, alternatively, unattributable  
+C. No event can be attributed to warming  
+D. Attribution science is meaningless  
+E. Rare events prove nothing  
 
 ### 330. The passage develops by
 
-❌ A. endorsing one extreme — neither is endorsed  
-❌ B. narrating one storm — no narrative  
-❌ C. presenting statistics — the "three times" figure is illustrative, not data analysis  
-✅ D. steering between two misreadings of a scientific finding — the explicit method  
-❌ E. rejecting climate science — the reverse
+A. endorsing one extreme  
+B. narrating one storm  
+C. presenting statistics  
+D. steering between two misreadings of a scientific finding  
+E. rejecting climate science  
 
 ---
 
@@ -270,83 +270,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 331. The passage's primary purpose is to
 
-✅ A. distinguish simplicity as a practical virtue from simplicity as a guarantee of truth — the closing antithesis  
-❌ B. reject simplicity in science — the preference is called warranted  
-❌ C. define entities — no definition  
-❌ D. compare two theories — none are named  
-❌ E. praise complex theories — complexity is never advocated
+A. distinguish simplicity as a practical virtue from simplicity as a guarantee of truth  
+B. reject simplicity in science  
+C. define entities  
+D. compare two theories  
+E. praise complex theories  
 
 ### 332. The author calls simplicity's justification "shaky" because it is unclear why
 
-❌ A. theories are testable — testability is granted  
-❌ B. entities exist — not the puzzle  
-❌ C. nature cooperates — the cooperation is granted as a track record  
-✅ D. the world should oblige our taste for economy — the stated puzzle  
-❌ E. we prefer theories — the preference is explained
+A. theories are testable  
+B. entities exist  
+C. nature cooperates  
+D. the world should oblige our taste for economy  
+E. we prefer theories  
 
 ### 333. The defenses of simplicity, per the author, establish
 
-❌ A. a metaphysical guarantee — explicitly not  
-✅ B. a practical virtue rather than a guarantee — stated verbatim  
-❌ C. nothing at all — they establish something real  
-❌ D. the universe's parsimony — the unearned conclusion  
-❌ E. a cosmic law — denied
+A. a metaphysical guarantee  
+B. a practical virtue rather than a guarantee  
+C. nothing at all  
+D. the universe's parsimony  
+E. a cosmic law  
 
 ### 334. "A good bet without being a law" describes simplicity as
 
-❌ A. proven true — betting implies no proof  
-❌ B. worthless — a good bet has value  
-❌ C. metaphysically necessary — the opposite of "not a law"  
-✅ D. prudent but not guaranteed — the phrase's sense  
-❌ E. untestable — testability is one of its virtues
+A. proven true  
+B. worthless  
+C. metaphysically necessary  
+D. prudent but not guaranteed  
+E. untestable  
 
 ### 335. We prefer economical theories, the author concludes, because they
 
-❌ A. reveal cosmic parsimony — explicitly not shown  
-❌ B. are complex — the opposite  
-✅ C. have served us in practice — "because they have served us"  
-❌ D. postulate more entities — the reverse  
-❌ E. are untestable — they are more testable
+A. reveal cosmic parsimony  
+B. are complex  
+C. have served us in practice  
+D. postulate more entities  
+E. are untestable  
 
 ### 336. The final sentence contrasts a warranted preference with an unwarranted
 
-❌ A. practice — practice is what is warranted  
-✅ B. cosmic promise — "the cosmic promise is not"  
-❌ C. test — testing is a virtue, not the overreach  
-❌ D. entity — entities are counted, not promised  
-❌ E. history — the track record is granted
+A. practice  
+B. cosmic promise  
+C. test  
+D. entity  
+E. history  
 
 ### 337. It can be inferred that the author regards claims that "the universe is parsimonious" as
 
-❌ A. proven — "not because we have shown"  
-❌ B. irrelevant to science — they are the tempting overreach  
-❌ C. recent — age is not discussed  
-❌ D. testable — their testability is not asserted  
-✅ E. unestablished — the author's precise position
+A. proven  
+B. irrelevant to science  
+C. recent  
+D. testable  
+E. unestablished  
 
 ### 338. The author's tone is best described as
 
-❌ A. dismissive — simplicity retains real value  
-❌ B. celebratory — nothing celebrated  
-❌ C. nostalgic — "honorable pedigree" is descriptive, not longing  
-❌ D. alarmed — no alarm  
-✅ E. carefully discriminating — a value is kept while its overreach is trimmed
+A. dismissive  
+B. celebratory  
+C. nostalgic  
+D. alarmed  
+E. carefully discriminating  
 
 ### 339. Which consideration would most support the author's position?
 
-❌ A. A proof that reality is fundamentally simple — this would vindicate the cosmic promise instead  
-❌ B. Evidence that theories exist — trivial  
-✅ C. A showing that simplicity's benefits are all methodological rather than evidence of the world's structure — exactly the author's distinction, demonstrated  
-❌ D. A survey of scientists — opinion  
-❌ E. Evidence that simple theories are testable, alone — one defense, already granted
+A. A proof that reality is fundamentally simple  
+B. Evidence that theories exist  
+C. A showing that simplicity's benefits are all methodological rather than evidence of the world's structure  
+D. A survey of scientists  
+E. Evidence that simple theories are testable, alone  
 
 ### 340. The passage develops by
 
-❌ A. defending a cosmic law — it denies one  
-❌ B. narrating a discovery — no narrative  
-❌ C. presenting statistics — none  
-❌ D. rejecting theory — theory is served  
-✅ E. separating a defensible practice from an indefensible metaphysical claim — the governing method
+A. defending a cosmic law  
+B. narrating a discovery  
+C. presenting statistics  
+D. rejecting theory  
+E. separating a defensible practice from an indefensible metaphysical claim  
 
 ---
 
@@ -356,83 +356,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 341. The passage's primary purpose is to
 
-❌ A. predict population collapse — the passage resists prediction  
-✅ B. caution against treating fertility trends as destiny to be extrapolated indefinitely — the thesis  
-❌ C. describe a marriage custom — marriage timing is one variable  
-❌ D. compare two countries — none are named  
-❌ E. reject demography — demography is done more carefully
+A. predict population collapse  
+B. caution against treating fertility trends as destiny to be extrapolated indefinitely  
+C. describe a marriage custom  
+D. compare two countries  
+E. reject demography  
 
 ### 342. The "Malthusian logic in reverse" now warns of danger from
 
-❌ A. too many people — the original Malthusian fear  
-❌ B. migration — never mentioned  
-❌ C. urbanization — not discussed  
-❌ D. aging alone — aging is not named as the mechanism  
-✅ E. too few people — "now too few are said to"
+A. too many people  
+B. migration  
+C. urbanization  
+D. aging alone  
+E. too few people  
 
 ### 343. The "flaw" shared by both panics is that they
 
-✅ A. treat a trend as destiny and extrapolate without limit — stated verbatim  
-❌ B. ignore fertility — fertility is their subject  
-❌ C. overstate policy — they understate policy's influence  
-❌ D. deny aging — aging is not at issue  
-❌ E. ignore economics — true in part, but the stated flaw is broader
+A. treat a trend as destiny and extrapolate without limit  
+B. ignore fertility  
+C. overstate policy  
+D. deny aging  
+E. ignore economics  
 
 ### 344. The author notes that fertility has, in some places,
 
-✅ A. risen unexpectedly — "risen unexpectedly in places written off as terminal"  
-❌ B. only fallen — the qualification says otherwise  
-❌ C. stayed fixed — variability is the point  
-❌ D. been irrelevant — it is central  
-❌ E. ended entirely — hyperbole unsupported
+A. risen unexpectedly  
+B. only fallen  
+C. stayed fixed  
+D. been irrelevant  
+E. ended entirely  
 
 ### 345. Fertility behaviors, per the author, respond to
 
-❌ A. nothing — the opposite claim  
-❌ B. straight-line projection — projections describe, not cause  
-✅ C. policy, culture, and economics — the passage's list  
-❌ D. rulers only — a pun on the passage's metaphor, not its content  
-❌ E. destiny — destiny is what the author denies
+A. nothing  
+B. straight-line projection  
+C. policy, culture, and economics  
+D. rulers only  
+E. destiny  
 
 ### 346. "To forecast a future by ruler" criticizes
 
-❌ A. careful modeling — modeling that captures responsiveness is welcome  
-❌ B. policy analysis — policy is a real influence  
-❌ C. cultural study — culture is one driver  
-✅ D. linear extrapolation of a trend — the "straight-line projection" critique  
-❌ E. responsiveness — responsiveness is what the method ignores
+A. careful modeling  
+B. policy analysis  
+C. cultural study  
+D. linear extrapolation of a trend  
+E. responsiveness  
 
 ### 347. It can be inferred that the author regards the continuation of the trend as
 
-❌ A. a fact — "not a fact"  
-✅ B. an assumption — stated verbatim in the last sentence  
-❌ C. impossible — continuation may well happen  
-❌ D. proven — the reverse  
-❌ E. irrelevant — it is the crux
+A. a fact  
+B. an assumption  
+C. impossible  
+D. proven  
+E. irrelevant  
 
 ### 348. The author's tone is best described as
 
-❌ A. alarmist — alarm is the object of critique  
-❌ B. celebratory — nothing celebrated  
-✅ C. measured and skeptical — a panic is deflated by attention to variability  
-❌ D. nostalgic — no past  
-❌ E. despairing — no pessimism
+A. alarmist  
+B. celebratory  
+C. measured and skeptical  
+D. nostalgic  
+E. despairing  
 
 ### 349. Which finding would most support the author's argument?
 
-❌ A. Evidence that fertility declines never reverse — this contradicts the author  
-✅ B. Evidence that a country reversed its fertility decline after a change in family policy — responsiveness demonstrated  
-❌ C. Proof that birth rates fell — the premise, not the support  
-❌ D. A survey of demographers — opinion  
-❌ E. Evidence that people marry — trivial
+A. Evidence that fertility declines never reverse  
+B. Evidence that a country reversed its fertility decline after a change in family policy  
+C. Proof that birth rates fell  
+D. A survey of demographers  
+E. Evidence that people marry  
 
 ### 350. The passage develops by
 
-✅ A. criticizing extrapolation and stressing behavioral responsiveness — the two-part argument  
-❌ B. endorsing a panic — both panics are criticized  
-❌ C. narrating one family — no case  
-❌ D. presenting statistics — none  
-❌ E. rejecting demography — the field is refined
+A. criticizing extrapolation and stressing behavioral responsiveness  
+B. endorsing a panic  
+C. narrating one family  
+D. presenting statistics  
+E. rejecting demography  
 
 ---
 
@@ -442,83 +442,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 351. The passage's primary purpose is to
 
-❌ A. celebrate mathematical imagination — the imagination story is the target  
-❌ B. prove the parallel postulate — the attempts to prove it failed  
-✅ C. correct a romanticized account of how non-Euclidean geometry arose — the thesis  
-❌ D. compare two geometries — the comparison is historical, not technical  
-❌ E. reject mathematics — mathematics is the subject, not the target
+A. celebrate mathematical imagination  
+B. prove the parallel postulate  
+C. correct a romanticized account of how non-Euclidean geometry arose  
+D. compare two geometries  
+E. reject mathematics  
 
 ### 352. The "flattering" story claims non-Euclidean geometry came from
 
-❌ A. a conservative effort — the author's corrective  
-❌ B. the parallel postulate's proof — the attempted proof failed  
-❌ C. Euclid himself — chronologically confused  
-✅ D. pure imagination defying common sense — stated in sentence one  
-❌ E. an accident — not the romantic framing
+A. a conservative effort  
+B. the parallel postulate's proof  
+C. Euclid himself  
+D. pure imagination defying common sense  
+E. an accident  
 
 ### 353. Its creators actually set out to
 
-❌ A. overthrow Euclid — "did not set out to overthrow Euclid"  
-✅ B. prove the parallel postulate from the other axioms — the documented aim  
-❌ C. invent impossible spaces — the myth  
-❌ D. reject geometry — the reverse  
-❌ E. abandon proof — proof was their instrument
+A. overthrow Euclid  
+B. prove the parallel postulate from the other axioms  
+C. invent impossible spaces  
+D. reject geometry  
+E. abandon proof  
 
 ### 354. They realized the denial of the postulate led to
 
-❌ A. contradiction — "not to contradiction"  
-✅ B. a coherent alternative — stated verbatim  
-❌ C. Euclid's proof — the proof never came  
-❌ D. nothing new — a whole geometry emerged  
-❌ E. romantic leaps — the rejected framing
+A. contradiction  
+B. a coherent alternative  
+C. Euclid's proof  
+D. nothing new  
+E. romantic leaps  
 
 ### 355. "The usual shape of conceptual change," per the author, is that the new arrives while the old is
 
-✅ A. being defended — stated verbatim  
-❌ B. ignored — attention to the old is intense  
-❌ C. overthrown deliberately — deliberate overthrow is what the author denies  
-❌ D. forgotten — it is being actively upheld  
-❌ E. proven — the proof attempt fails
+A. being defended  
+B. ignored  
+C. overthrown deliberately  
+D. forgotten  
+E. proven  
 
 ### 356. The final image says defenders are "the last to notice" that they have
 
-❌ A. failed — the failure was noticed; its meaning was not  
-❌ B. proven Euclid — they did not  
-✅ C. become revolutionaries — stated verbatim  
-❌ D. abandoned math — they remained mathematicians  
-❌ E. left geometry — they founded a new geometry
+A. failed  
+B. proven Euclid  
+C. become revolutionaries  
+D. abandoned math  
+E. left geometry  
 
 ### 357. It can be inferred that the author regards the "romantic leap" narrative as
 
-❌ A. accurate — it "distorts the record"  
-❌ B. irrelevant — it is the passage's target  
-❌ C. recent — age is not discussed  
-✅ D. a distortion of the historical record — stated in sentence one  
-❌ E. generous but true — the author denies its truth
+A. accurate  
+B. irrelevant  
+C. recent  
+D. a distortion of the historical record  
+E. generous but true  
 
 ### 358. The author's tone is best described as
 
-❌ A. polemical — the correction is dry rather than combative  
-❌ B. celebratory — nothing celebrated  
-✅ C. analytical and mildly ironic — note "the last to notice they have become revolutionaries"  
-❌ D. nostalgic — no past is preferred  
-❌ E. despairing — no pessimism
+A. polemical  
+B. celebratory  
+C. analytical and mildly ironic  
+D. nostalgic  
+E. despairing  
 
 ### 359. Which finding would most support the author's account?
 
-❌ A. Evidence that the geometers announced they were discarding Euclid from the start — this supports the romantic story  
-❌ B. Proof that geometry is old — trivial  
-❌ C. A survey of mathematicians — modern opinion  
-❌ D. Evidence that parallels exist — not the issue  
-✅ E. Evidence that their papers framed the work as an attempt to vindicate Euclid's postulate — the conservative motive documented
+A. Evidence that the geometers announced they were discarding Euclid from the start  
+B. Proof that geometry is old  
+C. A survey of mathematicians  
+D. Evidence that parallels exist  
+E. Evidence that their papers framed the work as an attempt to vindicate Euclid's postulate  
 
 ### 360. The passage develops by
 
-❌ A. confirming the romantic story — it is dismantled  
-✅ B. replacing a romantic origin story with a documented conservative one — the corrective method  
-❌ C. narrating a proof — no proof is given  
-❌ D. presenting statistics — none  
-❌ E. rejecting geometry — geometry is affirmed
+A. confirming the romantic story  
+B. replacing a romantic origin story with a documented conservative one  
+C. narrating a proof  
+D. presenting statistics  
+E. rejecting geometry  
 
 ---
 
@@ -528,83 +528,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 361. The passage's primary purpose is to
 
-❌ A. prove social media harms attention — the claim is questioned  
-❌ B. describe the printing press — the press is one example  
-❌ C. compare two platforms — no platforms compared  
-✅ D. question a nostalgic complaint about attention by placing it in historical context — the thesis  
-❌ E. reject media study — study is what the author demands
+A. prove social media harms attention  
+B. describe the printing press  
+C. compare two platforms  
+D. question a nostalgic complaint about attention by placing it in historical context  
+E. reject media study  
 
 ### 362. The author notes that the complaint about fragmented attention was previously aimed at
 
-❌ A. only social media — the point is its long history  
-❌ B. no prior technology — the reverse  
-✅ C. the book, newspaper, and telephone as well — the passage's list  
-❌ D. the telephone alone — one of three examples  
-❌ E. television only — television is not on the list
+A. only social media  
+B. no prior technology  
+C. the book, newspaper, and telephone as well  
+D. the telephone alone  
+E. television only  
 
 ### 363. The complaint's persistence across centuries should, per the author, make us
 
-✅ A. suspicious of its latest version — stated verbatim  
-❌ B. accept it — persistence is treated as a warning sign, not a credential  
-❌ C. mourn more — mourning is what the author resists  
-❌ D. abandon study — study is urged  
-❌ E. trust nostalgia — nostalgia is the diagnosis
+A. suspicious of its latest version  
+B. accept it  
+C. mourn more  
+D. abandon study  
+E. trust nostalgia  
 
 ### 364. The author does NOT deny that new platforms
 
-❌ A. exist — trivially granted  
-❌ B. are old — they are new  
-✅ C. shape attention — "they surely do"  
-❌ D. are books — a category error  
-❌ E. are studied — study is the recommendation, not the concession
+A. exist  
+B. are old  
+C. shape attention  
+D. are books  
+E. are studied  
 
 ### 365. The author urges that shaping of attention be
 
-❌ A. mourned — explicitly contrasted  
-✅ B. studied rather than mourned — stated verbatim  
-❌ C. ignored — the reverse  
-❌ D. banned — no prohibition  
-❌ E. assumed — assumption is the error
+A. mourned  
+B. studied rather than mourned  
+C. ignored  
+D. banned  
+E. assumed  
 
 ### 366. "A past that was never as contemplative as the mourners imagine" undercuts
 
-❌ A. the study of media — study is endorsed  
-❌ B. the printing press — the press is evidence, not target  
-❌ C. the telephone — likewise  
-✅ D. the nostalgic baseline against which distraction is measured — the comparison's missing standard  
-❌ E. attention itself — attention is real
+A. the study of media  
+B. the printing press  
+C. the telephone  
+D. the nostalgic baseline against which distraction is measured  
+E. attention itself  
 
 ### 367. It can be inferred that the author regards the "destroyed our attention" claim as
 
-❌ A. proven — the historical record is said not to support its framing  
-❌ B. irrelevant — it is the subject  
-❌ C. recent and correct — its recency is doubted and its correctness questioned  
-❌ D. unfalsifiable — the author thinks it can be measured  
-✅ E. overstated and under-historicized — the twin objections
+A. proven  
+B. irrelevant  
+C. recent and correct  
+D. unfalsifiable  
+E. overstated and under-historicized  
 
 ### 368. The author's tone is best described as
 
-❌ A. alarmist — alarm is what is deflated  
-❌ B. celebratory — nothing celebrated  
-✅ C. skeptical and analytical — a familiar lament is tested against history  
-❌ D. nostalgic — nostalgia is the target  
-❌ E. despairing — no pessimism
+A. alarmist  
+B. celebratory  
+C. skeptical and analytical  
+D. nostalgic  
+E. despairing  
 
 ### 369. Which finding would most strengthen the author's argument?
 
-❌ A. Evidence that only social media provoked worries about attention — this refutes the author  
-❌ B. Proof that platforms exist — trivial  
-✅ C. Evidence that early critics of the printed book warned it would scatter the mind — the recurring lament documented  
-❌ D. A survey of users — opinion  
-❌ E. Evidence that attention shifts — granted by the author already
+A. Evidence that only social media provoked worries about attention  
+B. Proof that platforms exist  
+C. Evidence that early critics of the printed book warned it would scatter the mind  
+D. A survey of users  
+E. Evidence that attention shifts  
 
 ### 370. The passage develops by
 
-❌ A. endorsing the lament — it is relativized  
-✅ B. historicizing a contemporary complaint to relativize it — the governing method  
-❌ C. narrating one user's day — no case  
-❌ D. presenting statistics — none  
-❌ E. rejecting media — media are to be studied
+A. endorsing the lament  
+B. historicizing a contemporary complaint to relativize it  
+C. narrating one user's day  
+D. presenting statistics  
+E. rejecting media  
 
 ---
 
@@ -614,83 +614,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 371. The passage's primary purpose is to
 
-❌ A. prove history is random — explicitly disclaimed  
-❌ B. describe one event — no event is described  
-✅ C. argue that perceived historical direction is largely a product of our narration — the thesis  
-❌ D. compare two centuries — no comparison  
-❌ E. reject history — history is practiced, not rejected
+A. prove history is random  
+B. describe one event  
+C. argue that perceived historical direction is largely a product of our narration  
+D. compare two centuries  
+E. reject history  
 
 ### 372. The author says each generation rewrites history's "arrow" to point at
 
-❌ A. the truth — the arrow is a projection  
-✅ B. its own hopes or fears — stated verbatim  
-❌ C. freedom always — one option among the generation's own concerns  
-❌ D. catastrophe always — likewise  
-❌ E. reason always — likewise
+A. the truth  
+B. its own hopes or fears  
+C. freedom always  
+D. catastrophe always  
+E. reason always  
 
 ### 373. The impulse to find direction is understandable because
 
-❌ A. history is random — the author declines this claim  
-❌ B. events tend toward freedom — that is one projected direction  
-✅ C. a story needs a shape and a shapeless past is hard to bear — the stated reason  
-❌ D. arrows are real — the arrow is drawn  
-❌ E. narration is neutral — narration is precisely not neutral
+A. history is random  
+B. events tend toward freedom  
+C. a story needs a shape and a shapeless past is hard to bear  
+D. arrows are real  
+E. narration is neutral  
 
 ### 374. "The direction we find is usually the one we bring" means patterns are
 
-❌ A. objective features of the past — partly, but the sentence stresses the observer's role  
-❌ B. random — explicitly not claimed  
-✅ C. shaped by the observer's selection — the selection mechanism just described  
-❌ D. unknowable — the author claims to know how they arise  
-❌ E. proven — the reverse
+A. objective features of the past  
+B. random  
+C. shaped by the observer's selection  
+D. unknowable  
+E. proven  
 
 ### 375. The author is careful to say his point does NOT prove that history is
 
-❌ A. directed — direction is what he doubts  
-❌ B. narrated — narration is affirmed  
-✅ C. random — "does not prove that history is random"  
-❌ D. selective — selection is affirmed  
-❌ E. shapeless — shapelessness is not asserted
+A. directed  
+B. narrated  
+C. random  
+D. selective  
+E. shapeless  
 
 ### 376. "The arrow is drawn, not found" summarizes the view that direction is
 
-❌ A. a feature of the past — the contrasted alternative  
-❌ B. random — disclaimed  
-✅ C. an artifact of narration — the sentence's meaning  
-❌ D. catastrophic — one possible projected content  
-❌ E. rational — likewise
+A. a feature of the past  
+B. random  
+C. an artifact of narration  
+D. catastrophic  
+E. rational  
 
 ### 377. It can be inferred that the author regards grand directional histories as
 
-❌ A. objective — the opposite  
-❌ B. impossible to write — they are written constantly  
-✅ C. reflecting the narrator's concerns — the central diagnosis  
-❌ D. recent — they recur across generations  
-❌ E. value-free — they carry hopes and fears
+A. objective  
+B. impossible to write  
+C. reflecting the narrator's concerns  
+D. recent  
+E. value-free  
 
 ### 378. The author's tone is best described as
 
-❌ A. polemical — the passage is reflective rather than combative  
-❌ B. celebratory — nothing celebrated  
-✅ C. reflective and skeptical — a durable impulse is examined and qualified  
-❌ D. nostalgic — no past preferred  
-❌ E. despairing — randomness is not embraced
+A. polemical  
+B. celebratory  
+C. reflective and skeptical  
+D. nostalgic  
+E. despairing  
 
 ### 379. Which observation would most support the author's argument?
 
-❌ A. Evidence that history has no events — absurd and unsupported  
-❌ B. Proof that arrows exist — a literalization of the metaphor  
-❌ C. A survey of readers — opinion  
-✅ D. Evidence that historians of different eras derive opposite "directions" from the same events by selecting differently — projection demonstrated  
-❌ E. Evidence that stories have shapes — granted, and not the contested point
+A. Evidence that history has no events  
+B. Proof that arrows exist  
+C. A survey of readers  
+D. Evidence that historians of different eras derive opposite "directions" from the same events by selecting differently  
+E. Evidence that stories have shapes  
 
 ### 380. The passage develops by
 
-❌ A. asserting a direction — it questions all such assertions  
-❌ B. narrating one century — no narrative  
-❌ C. presenting statistics — none  
-❌ D. rejecting history — history is not rejected  
-✅ E. diagnosing directional narratives as projections while stopping short of claiming randomness — the careful two-part position
+A. asserting a direction  
+B. narrating one century  
+C. presenting statistics  
+D. rejecting history  
+E. diagnosing directional narratives as projections while stopping short of claiming randomness  
 
 ---
 
@@ -700,83 +700,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 381. The passage's primary purpose is to
 
-❌ A. defend the lock-and-key metaphor — it is called misleading  
-❌ B. describe one enzyme — no specific enzyme  
-❌ C. compare two proteins — no comparison  
-✅ D. explain how a durable metaphor obscured the dynamic nature of enzymes — the thesis  
-❌ E. reject biochemistry — the field is corrected
+A. defend the lock-and-key metaphor  
+B. describe one enzyme  
+C. compare two proteins  
+D. explain how a durable metaphor obscured the dynamic nature of enzymes  
+E. reject biochemistry  
 
 ### 382. The lock-and-key image portrayed enzymes as
 
-❌ A. flexible — the opposite  
-✅ B. rigid and precisely shaped — stated verbatim  
-❌ C. dynamic — what it concealed  
-❌ D. in motion — likewise  
-❌ E. shapeless — precise shape was its premise
+A. flexible  
+B. rigid and precisely shaped  
+C. dynamic  
+D. in motion  
+E. shapeless  
 
 ### 383. Much of enzymes' catalytic power, per the author, comes from
 
-❌ A. rigidity — the discredited assumption  
-❌ B. the key — a metaphorical element, not a mechanism  
-❌ C. the lock — likewise  
-✅ D. motion and shifting conformations — stated verbatim  
-❌ E. specificity alone — specificity is real but not the source of power described
+A. rigidity  
+B. the key  
+C. the lock  
+D. motion and shifting conformations  
+E. specificity alone  
 
 ### 384. The lock-and-key picture captured ___ while hiding ___.
 
-❌ A. dynamics; specificity — reversed  
-❌ B. motion; rigidity — not the pair  
-❌ C. keys; locks — literalizes the metaphor  
-❌ D. rigidity; motion — rigidity is an assumption, not something "captured"  
-✅ E. specificity; dynamics — the sentence's exact terms
+A. dynamics; specificity  
+B. motion; rigidity  
+C. keys; locks  
+D. rigidity; motion  
+E. specificity; dynamics  
 
 ### 385. Replacing the metaphor has been slow because it is
 
-❌ A. well supported — the evidence against it is called strong  
-❌ B. recently coined — it is a century old  
-❌ C. mathematically precise — it is a visual analogy  
-✅ D. so intuitive that it survives its own disproof — stated verbatim  
-❌ E. irrelevant — it remains influential
+A. well supported  
+B. recently coined  
+C. mathematically precise  
+D. so intuitive that it survives its own disproof  
+E. irrelevant  
 
 ### 386. The metaphor continues to shape
 
-❌ A. enzyme structure — structure is a fact, not shaped by metaphor  
-❌ B. the evidence — evidence is independent of it  
-❌ C. catalysis — catalysis is a physical process  
-❌ D. specificity — a property, not shaped by belief  
-✅ E. the questions researchers think to ask — the closing clause
+A. enzyme structure  
+B. the evidence  
+C. catalysis  
+D. specificity  
+E. the questions researchers think to ask  
 
 ### 387. It can be inferred that the author regards intuitive metaphors as
 
-✅ A. capable of misleading even after disproof — the passage's key observation  
-❌ B. always harmless — this one misled a field  
-❌ C. impossible to replace — replacement is slow, not impossible  
-❌ D. recent — this one is long-standing  
-❌ E. evidence-based — intuition, not evidence, sustains it
+A. capable of misleading even after disproof  
+B. always harmless  
+C. impossible to replace  
+D. recent  
+E. evidence-based  
 
 ### 388. The author's tone is best described as
 
-✅ A. analytical and mildly critical — a diagnosis delivered evenly  
-❌ B. celebratory — nothing celebrated  
-❌ C. dismissive of enzymes — enzymes are the object of study  
-❌ D. nostalgic — no past preferred  
-❌ E. alarmed — no alarm
+A. analytical and mildly critical  
+B. celebratory  
+C. dismissive of enzymes  
+D. nostalgic  
+E. alarmed  
 
 ### 389. Which finding would most support the author's argument?
 
-❌ A. Evidence that enzymes are rigid and immobile during catalysis — this restores the lock-and-key view  
-❌ B. Proof that enzymes exist — trivial  
-✅ C. Evidence that an enzyme's shifting conformations are required for its catalytic activity — dynamics shown to be essential  
-❌ D. A survey of biochemists — opinion  
-❌ E. Evidence that locks have keys — literalizes the metaphor
+A. Evidence that enzymes are rigid and immobile during catalysis  
+B. Proof that enzymes exist  
+C. Evidence that an enzyme's shifting conformations are required for its catalytic activity  
+D. A survey of biochemists  
+E. Evidence that locks have keys  
 
 ### 390. The passage develops by
 
-❌ A. endorsing the metaphor — it is displaced  
-❌ B. narrating one reaction — no narrative  
-✅ C. showing how a useful metaphor captured one truth while concealing another — the specificity/dynamics split  
-❌ D. presenting statistics — none  
-❌ E. rejecting metaphor — metaphor as such is not condemned
+A. endorsing the metaphor  
+B. narrating one reaction  
+C. showing how a useful metaphor captured one truth while concealing another  
+D. presenting statistics  
+E. rejecting metaphor  
 
 ---
 
@@ -786,83 +786,83 @@ Jump to: [1–100](questions-1-100.md) · [101–200](questions-101-200.md) · [
 
 ### 391. The passage's primary purpose is to
 
-❌ A. endorse the self-sufficient neighborhood — its limits are pressed  
-❌ B. describe a walkable district — description is not the aim  
-❌ C. compare two cities — no cities named  
-✅ D. question an ideal by exposing a tension between local sufficiency and urban cosmopolitanism — the thesis  
-❌ E. reject planning — planning is advised, not rejected
+A. endorse the self-sufficient neighborhood  
+B. describe a walkable district  
+C. compare two cities  
+D. question an ideal by exposing a tension between local sufficiency and urban cosmopolitanism  
+E. reject planning  
 
 ### 392. The "reigning ideal" the author examines is the neighborhood that
 
-❌ A. is car-dependent — the opposite of the ideal described  
-❌ B. excludes residents — enclosure is a consequence, not the ideal  
-❌ C. lacks shops — the reverse  
-❌ D. sprawls outward — the ideal is compact  
-✅ E. supplies all needs within a short walk — the opening definition
+A. is car-dependent  
+B. excludes residents  
+C. lacks shops  
+D. sprawls outward  
+E. supplies all needs within a short walk  
 
 ### 393. A fully self-sufficient neighborhood can, per the author,
 
-✅ A. enclose and turn proximity into parochialism — stated verbatim  
-❌ B. only benefit residents — the passage names a cost  
-❌ C. eliminate difference beneficially — the elimination is the problem  
-❌ D. expand cosmopolitanism — it may contract it  
-❌ E. reduce comfort — it delivers comfort
+A. enclose and turn proximity into parochialism  
+B. only benefit residents  
+C. eliminate difference beneficially  
+D. expand cosmopolitanism  
+E. reduce comfort  
 
 ### 394. "The genius of urban life," the author says, was
 
-❌ A. convenience — "never mere convenience"  
-❌ B. local sufficiency — the ideal under scrutiny  
-❌ C. seamlessness — a symptom of the problem  
-❌ D. comfort — the consolation prize, not the genius  
-✅ E. the collision of unlike people in shared space — stated verbatim
+A. convenience  
+B. local sufficiency  
+C. seamlessness  
+D. comfort  
+E. the collision of unlike people in shared space  
 
 ### 395. The district engineered for sufficiency may deliver comfort at the cost of
 
-❌ A. walkability — walkability is what it delivers  
-❌ B. shops — shops are plentiful  
-❌ C. proximity — proximity is its achievement  
-❌ D. convenience — convenience is preserved  
-✅ E. cosmopolitanism — "the very cosmopolitanism it was meant to serve"
+A. walkability  
+B. shops  
+C. proximity  
+D. convenience  
+E. cosmopolitanism  
 
 ### 396. "Its domestication" describes the city rendered
 
-❌ A. more diverse — the reverse  
-❌ B. larger — size is not the issue  
-❌ C. self-sufficient in a good sense — the phrase is critical  
-❌ D. inconvenient — it is highly convenient  
-✅ E. tamer and less cosmopolitan — domestication as loss of wildness/friction
+A. more diverse  
+B. larger  
+C. self-sufficient in a good sense  
+D. inconvenient  
+E. tamer and less cosmopolitan  
 
 ### 397. It can be inferred that the author values in cities the experience of
 
-✅ A. encounter with difference — the "frictional encounters" the author prizes  
-❌ B. seamless convenience — treated as a lesser good  
-❌ C. local sufficiency — the ideal being questioned  
-❌ D. comfort above all — comfort is the cost's compensation  
-❌ E. parochial belonging — named as a danger
+A. encounter with difference  
+B. seamless convenience  
+C. local sufficiency  
+D. comfort above all  
+E. parochial belonging  
 
 ### 398. The author's tone is best described as
 
-❌ A. enthusiastic — enthusiasm belongs to the ideal's champions  
-❌ B. hostile to cities — cities are celebrated  
-❌ C. nostalgic — no specific past city is mourned  
-❌ D. alarmist — the warning is measured  
-✅ E. critically reflective — an admired ideal is weighed against a neglected good
+A. enthusiastic  
+B. hostile to cities  
+C. nostalgic  
+D. alarmist  
+E. critically reflective  
 
 ### 399. Which finding would most support the author's caution?
 
-❌ A. Evidence that walkable districts increase convenience — granted, and not the contested point  
-❌ B. Proof that neighborhoods exist — trivial  
-✅ C. Evidence that residents of highly self-sufficient neighborhoods interact less with people unlike themselves — the enclosure effect measured  
-❌ D. A survey of planners — opinion  
-❌ E. Evidence that cities have shops — background
+A. Evidence that walkable districts increase convenience  
+B. Proof that neighborhoods exist  
+C. Evidence that residents of highly self-sufficient neighborhoods interact less with people unlike themselves  
+D. A survey of planners  
+E. Evidence that cities have shops  
 
 ### 400. The passage develops by
 
-❌ A. endorsing a planning ideal — it is questioned  
-❌ B. narrating one neighborhood — no case  
-✅ C. identifying a hidden cost in a widely praised ideal — the governing move  
-❌ D. presenting statistics — none  
-❌ E. rejecting urban life — urban life is defended
+A. endorsing a planning ideal  
+B. narrating one neighborhood  
+C. identifying a hidden cost in a widely praised ideal  
+D. presenting statistics  
+E. rejecting urban life  
 
 ---
 
