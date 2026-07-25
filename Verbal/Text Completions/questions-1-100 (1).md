@@ -1,807 +1,865 @@
-# GRE Text Completion — Questions 1–100
+<div align="center">
 
-Part of the [500 Hard Practice Questions](README.md) set. ✅ = correct answer, per the official key. Every choice is defined.
+# 📝 GRE Text Completion
 
-Jump to: **1–100** · [101–200](questions-101-200.md) · [201–300](questions-201-300.md) · [301–400](questions-301-400.md) · [401–500](questions-401-500.md)
+### Questions 1–100
+
+*Choose the word that best completes each sentence.*
+
+![Questions](https://img.shields.io/badge/questions-100-blue) ![Type](https://img.shields.io/badge/type-text%20completion-brightgreen) ![Level](https://img.shields.io/badge/level-GRE-orange)
+
+</div>
 
 ---
 
-### 1. The ______ of his early novels gave way, in middle age, to a hard-won simplicity.
-
-✅ A. extravagance = excessive elaborateness; lavish spending  
-❌ B. restraint = self-control; holding back  
-❌ C. austerity = severe plainness; strict simplicity  
-❌ D. economy = sparing, efficient use (of words or resources)  
-❌ E. plainness = simplicity; absence of decoration
+[⬅ Back to index](README.md)
 
-### 2. So ______ was the disguise that the spy passed undetected for years.
-
-❌ A. crude = rough and unrefined  
-❌ B. flimsy = weak and insubstantial; easily seen through  
-❌ C. obvious = easily perceived; evident  
-❌ D. transparent = easily seen through; obvious  
-✅ E. flawless = perfect; without any defect
+## 🧭 Contents
 
-### 3. The essay's ______, refusing all ornament, gives it a bracing clarity.
-
-❌ A. extravagance = excessive elaborateness; lavish spending  
-✅ B. plainness = simplicity; absence of decoration  
-❌ C. lushness = rich luxuriance  
-❌ D. floridity = excessive ornateness of style  
-❌ E. ornateness = elaborate decoration or embellishment
+| [1–10](#questions-1-10) | [11–20](#questions-11-20) | [21–30](#questions-21-30) | [31–40](#questions-31-40) | [41–50](#questions-41-50) |
+|:---:|:---:|:---:|:---:|:---:|
+| [51–60](#questions-51-60) | [61–70](#questions-61-70) | [71–80](#questions-71-80) | [81–90](#questions-81-90) | [91–100](#questions-91-100) |
 
-### 4. A ______ memory allowed him to recite whole books verbatim.
-
-❌ A. feeble = weak; lacking strength  
-❌ B. unreliable = not able to be trusted or depended on  
-❌ C. spotty = uneven in quality; inconsistent  
-❌ D. faulty = having defects; unreliable  
-✅ E. prodigious = remarkably impressive in size or degree
+---
 
-### 5. A ______ for ceremony shaped every public appearance she made.
-
-❌ A. contempt = feeling that something is worthless; scorn  
-❌ B. disdain = look down upon; scorn  
-❌ C. aversion = strong dislike  
-❌ D. distaste = mild dislike or aversion  
-✅ E. fondness = affection or liking
+## Questions 1-10
 
-### 6. The plan's ______ doomed it: it solved one problem only by creating three more.
-
-❌ A. soundness = logical validity; good condition  
-❌ B. rigor = strict thoroughness and precision  
-✅ C. incoherence = lack of logical connection; confusion  
-❌ D. elegance = graceful refinement; pleasing simplicity  
-❌ E. coherence = logical consistency; holding together
+**1.** The ______ of his early novels gave way, in middle age, to a hard-won simplicity.
 
-### 7. So ______ was the contrast that no one could overlook it.
-
-❌ A. slight = small in degree; insignificant  
-❌ B. faint = barely perceptible; weak  
-❌ C. subtle = delicately understated; not obvious  
-✅ D. stark = severe and sharply evident; harsh  
-❌ E. negligible = so small as to be unimportant
+> `A` extravagance\
+> `B` restraint\
+> `C` austerity\
+> `D` economy\
+> `E` plainness
 
-### 8. The committee's failure to act allowed a minor problem to ______ into a full-blown crisis.
-
-❌ A. subside = to become less intense; die down  
-❌ B. contract = to shrink; become smaller  
-✅ C. metastasize = to spread harmfully (like cancer)  
-❌ D. diminish = to become smaller or less  
-❌ E. dwindle = to diminish gradually
+**2.** So ______ was the disguise that the spy passed undetected for years.
 
-### 9. So ______ was the proof that no mathematician could find a single flaw.
-
-❌ A. convoluted = extremely complex and hard to follow  
-✅ B. elegant = gracefully refined; ingeniously simple  
-❌ C. flawed = having defects or imperfections  
-❌ D. clumsy = awkward; lacking skill or grace  
-❌ E. muddled = confused; disordered
+> `A` crude\
+> `B` flimsy\
+> `C` obvious\
+> `D` transparent\
+> `E` flawless
 
-### 10. So ______ was the wine that connoisseurs traveled across the country to taste it.
-
-❌ A. unremarkable = ordinary; not worth noting  
-✅ B. superb = excellent; of the highest quality  
-❌ C. ordinary = commonplace; not special  
-❌ D. mediocre = of only average quality; unremarkable  
-❌ E. passable = just good enough; adequate
+**3.** The essay's ______, refusing all ornament, gives it a bracing clarity.
 
-### 11. The evidence was ______, pointing unmistakably to a single conclusion.
-
-❌ A. equivocal = ambiguous; open to multiple interpretations  
-❌ B. inconclusive = not settling an issue; indecisive  
-✅ C. incontrovertible = impossible to deny or dispute  
-❌ D. ambiguous = open to more than one interpretation; unclear  
-❌ E. dubious = doubtful; of questionable value
+> `A` extravagance\
+> `B` plainness\
+> `C` lushness\
+> `D` floridity\
+> `E` ornateness
 
-### 12. His ______ confidence, untouched by any setback, struck some as admirable and others as delusional.
-
-✅ A. unshakable = firm; impossible to disturb  
-❌ B. brittle = hard but easily broken; fragile  
-❌ C. faltering = hesitant; unsteady; weakening  
-❌ D. tenuous = very weak or slight; flimsy  
-❌ E. fragile = easily broken or damaged; delicate
+**4.** A ______ memory allowed him to recite whole books verbatim.
 
-### 13. The crowd received the announcement with ______, neither cheering nor protesting.
-
-❌ A. jubilation = triumphant rejoicing  
-❌ B. rapture = ecstatic joy or delight  
-✅ C. indifference = lack of interest or concern  
-❌ D. enthusiasm = eager enjoyment or interest  
-❌ E. fervor = intense passionate feeling
+> `A` feeble\
+> `B` unreliable\
+> `C` spotty\
+> `D` faulty\
+> `E` prodigious
 
-### 14. A ______ for hard cases drew her to the criminal courts.
-
-❌ A. distaste = mild dislike or aversion  
-❌ B. aversion = strong dislike  
-✅ C. relish = great enjoyment; zest  
-❌ D. reluctance = unwillingness; hesitancy  
-❌ E. dread = great fear or apprehension
+**5.** A ______ for ceremony shaped every public appearance she made.
 
-### 15. A ______ wind cut across the plain, driving the travelers to seek shelter.
-
-❌ A. tepid = lukewarm; showing little enthusiasm  
-❌ B. balmy = pleasantly mild and warm  
-✅ C. biting = sharp and cutting; harsh  
-❌ D. mild = gentle; not severe  
-❌ E. gentle = mild and kind; not severe
+> `A` contempt\
+> `B` disdain\
+> `C` aversion\
+> `D` distaste\
+> `E` fondness
 
-### 16. A ______ defender of free speech, she championed even views she despised.
-
-❌ A. inconsistent = self-contradictory; not staying the same  
-❌ B. opportunistic = exploiting circumstances for self-interest  
-✅ C. principled = acting according to firm moral standards  
-❌ D. selective = carefully choosing; not universal  
-❌ E. fickle = changeable in loyalties; inconstant
+**6.** The plan's ______ doomed it: it solved one problem only by creating three more.
 
-### 17. His ______ for risk, betting everything on each venture, eventually ruined him.
-
-❌ A. distaste = mild dislike or aversion  
-❌ B. aversion = strong dislike  
-❌ C. dread = great fear or apprehension  
-❌ D. wariness = cautious watchfulness  
-✅ E. appetite = strong desire or craving
+> `A` soundness\
+> `B` rigor\
+> `C` incoherence\
+> `D` elegance\
+> `E` coherence
 
-### 18. So ______ was the document's prose that lawyers billed for hours just to parse it.
-
-❌ A. clear = easy to perceive or understand  
-❌ B. lucid = clearly expressed; easy to understand  
-❌ C. transparent = easily seen through; obvious  
-✅ D. convoluted = extremely complex and hard to follow  
-❌ E. plain = simple; without decoration
+**7.** So ______ was the contrast that no one could overlook it.
 
-### 19. His ______ command of several languages made him an invaluable member of the delegation.
-
-❌ A. faltering = hesitant; unsteady; weakening  
-❌ B. rudimentary = basic; undeveloped  
-✅ C. fluent = able to speak or write smoothly and readily  
-❌ D. halting = hesitant; faltering  
-❌ E. stumbling = tripping; proceeding with errors
+> `A` slight\
+> `B` faint\
+> `C` subtle\
+> `D` stark\
+> `E` negligible
 
-### 20. His ______ optimism, undimmed by repeated failure, was either inspiring or absurd.
-
-❌ A. faltering = hesitant; unsteady; weakening  
-❌ B. fragile = easily broken or damaged; delicate  
-❌ C. wavering = hesitating between choices; unsteady  
-❌ D. tentative = hesitant; provisional; uncertain  
-✅ E. stubborn = refusing to change; obstinate
+**8.** The committee's failure to act allowed a minor problem to ______ into a full-blown crisis.
 
-### 21. His ______ to authority, questioning every order, made him a difficult subordinate.
-
-❌ A. obeisance = deferential respect; a bow of homage  
-❌ B. submission = yielding to authority or another's will  
-✅ C. resistance = refusal to accept or comply; opposition  
-❌ D. servility = excessive submissive obedience  
-❌ E. deference = respectful submission to another's judgment
+> `A` subside\
+> `B` contract\
+> `C` metastasize\
+> `D` diminish\
+> `E` dwindle
 
-### 22. The reforms were ______, their effects rippling through every level of society.
-
-❌ A. contained = kept within limits; restrained  
-❌ B. limited = restricted in scope or extent  
-✅ C. far-reaching = having broad influence or implications  
-❌ D. circumscribed = restricted; narrowly limited  
-❌ E. narrow = limited in scope or range
+**9.** So ______ was the proof that no mathematician could find a single flaw.
 
-### 23. His ______ for grandeur led him to build a palace far beyond his means.
-
-❌ A. distaste = mild dislike or aversion  
-❌ B. aversion = strong dislike  
-❌ C. indifference = lack of interest or concern  
-❌ D. disdain = look down upon; scorn  
-✅ E. appetite = strong desire or craving
+> `A` convoluted\
+> `B` elegant\
+> `C` flawed\
+> `D` clumsy\
+> `E` muddled
 
-### 24. The criticism was ______, aimed not at the work itself but at petty matters of formatting.
-
-❌ A. insightful = showing deep understanding  
-❌ B. constructive = serving a useful purpose; helpful  
-❌ C. substantive = dealing with essentials; meaningful  
-❌ D. penetrating = keenly perceptive; incisive  
-✅ E. captious = quick to find trivial faults; nitpicking
+**10.** So ______ was the wine that connoisseurs traveled across the country to taste it.
 
-### 25. His ______ in defeat, gracious and uncomplaining, impressed even his opponents.
-
-✅ A. dignity = composed self-respect; worthiness  
-❌ B. bitterness = resentful anger; sharp unpleasantness  
-❌ C. rancor = long-lasting bitter resentment  
-❌ D. spite = malicious desire to hurt or annoy  
-❌ E. petulance = childish sulky irritability
+> `A` unremarkable\
+> `B` superb\
+> `C` ordinary\
+> `D` mediocre\
+> `E` passable
 
-### 26. The committee's ______, debating endlessly without acting, became a public embarrassment.
-
-✅ A. paralysis = inability to act or function  
-❌ B. alacrity = brisk and cheerful readiness  
-❌ C. efficiency = ability to work productively without waste  
-❌ D. decisiveness = ability to decide quickly and firmly  
-❌ E. resolve = firm determination; also, to settle
+---
 
-### 27. His ______ in negotiation, holding firm when others would fold, secured the better terms.
-
-❌ A. wavering = hesitating between choices; unsteady  
-❌ B. vacillation = wavering between options; indecision  
-❌ C. irresolution = uncertainty; inability to decide  
-❌ D. faltering = hesitant; unsteady; weakening  
-✅ E. steadiness = stability; consistent firmness
+## Questions 11-20
 
-### 28. The town's ______ charm drew tourists seeking an escape from the city.
-
-✅ A. quaint = attractively old-fashioned  
-❌ B. sleek = smooth, glossy, and streamlined; polished  
-❌ C. modern = of the present time; up-to-date  
-❌ D. urban = relating to a city  
-❌ E. industrial = relating to manufacturing; factory-like
+**11.** The evidence was ______, pointing unmistakably to a single conclusion.
 
-### 29. The report was ______, burying its few useful findings in pages of filler.
-
-❌ A. trim = neat and compact; free of excess  
-✅ B. bloated = swollen; excessively large or wordy  
-❌ C. concise = brief but comprehensive  
-❌ D. lean = spare and efficient; without excess  
-❌ E. spare = plain and unadorned; lean
+> `A` equivocal\
+> `B` inconclusive\
+> `C` incontrovertible\
+> `D` ambiguous\
+> `E` dubious
 
-### 30. His ______ in adversity, never once complaining, won the respect of his peers.
-
-❌ A. petulance = childish sulky irritability  
-❌ B. peevishness = irritable bad temper; petulance  
-❌ C. self-pity = excessive sorrow for one's own troubles  
-❌ D. whining = complaining in an annoying way  
-✅ E. stoicism = enduring hardship without complaint
+**12.** His ______ confidence, untouched by any setback, struck some as admirable and others as delusional.
 
-### 31. The novel's prose is so ______ that readers often must consult a dictionary to follow even a single paragraph.
-
-✅ A. abstruse = difficult to understand; obscure  
-❌ B. colloquial = informal; conversational in style  
-❌ C. accessible = easy to understand or approach  
-❌ D. pellucid = translucently clear; easily understood  
-❌ E. spare = plain and unadorned; lean
+> `A` unshakable\
+> `B` brittle\
+> `C` faltering\
+> `D` tenuous\
+> `E` fragile
 
-### 32. A ______ for the grandiose led the architect to ever more extravagant designs.
-
-❌ A. aversion = strong dislike  
-❌ B. disdain = look down upon; scorn  
-✅ C. taste = a liking or preference  
-❌ D. contempt = feeling that something is worthless; scorn  
-❌ E. distaste = mild dislike or aversion
+**13.** The crowd received the announcement with ______, neither cheering nor protesting.
 
-### 33. The reforms were ______, leaving the system worse than they found it.
-
-✅ A. counterproductive = having the opposite of the desired effect  
-❌ B. salutary = producing a beneficial effect; wholesome  
-❌ C. helpful = giving assistance; useful  
-❌ D. beneficial = producing good results; helpful  
-❌ E. constructive = serving a useful purpose; helpful
+> `A` jubilation\
+> `B` rapture\
+> `C` indifference\
+> `D` enthusiasm\
+> `E` fervor
 
-### 34. The committee dismissed his idea as ______, far too impractical to merit serious discussion.
-
-❌ A. viable = capable of working successfully; feasible  
-✅ B. chimerical = wildly fanciful; impossible to achieve  
-❌ C. workable = capable of functioning; practicable  
-❌ D. feasible = possible to do; practicable  
-❌ E. practicable = able to be done; feasible
+**14.** A ______ for hard cases drew her to the criminal courts.
 
-### 35. A ______ reader of character, she sized up strangers within minutes.
-
-❌ A. obtuse = slow to understand; insensitive  
-❌ B. careless = not giving sufficient attention; negligent  
-❌ C. undiscerning = lacking judgment or insight  
-✅ D. shrewd = astute; sharply perceptive  
-❌ E. poor = of low quality; deficient
+> `A` distaste\
+> `B` aversion\
+> `C` relish\
+> `D` reluctance\
+> `E` dread
 
-### 36. So ______ was her account that the editor printed it without changing a word.
-
-❌ A. clumsy = awkward; lacking skill or grace  
-❌ B. rough = unpolished; not smooth or refined  
-❌ C. crude = rough and unrefined  
-✅ D. polished = refined and flawless in execution  
-❌ E. unrefined = crude; lacking polish
+**15.** A ______ wind cut across the plain, driving the travelers to seek shelter.
 
-### 37. The new manager's ______ approach, micromanaging every task, soon exhausted the entire team.
-
-❌ A. laissez-faire = policy of non-interference  
-❌ B. aloof = cool and distant; unfriendly  
-❌ C. detached = aloof and objective; disconnected  
-✅ D. officious = intrusively meddlesome in offering unwanted help  
-❌ E. hands-off = not interfering; leaving others to act freely
+> `A` tepid\
+> `B` balmy\
+> `C` biting\
+> `D` mild\
+> `E` gentle
 
-### 38. A ______ negotiator, she secured concessions that her predecessors had failed to win in years.
-
-❌ A. hapless = unlucky; unfortunate  
-❌ B. bumbling = acting in a clumsy, incompetent way  
-✅ C. consummate = supremely skilled; perfect  
-❌ D. clumsy = awkward; lacking skill or grace  
-❌ E. inept = clumsily incompetent
+**16.** A ______ defender of free speech, she championed even views she despised.
 
-### 39. A ______ reader of contracts, she caught the clause that would have cost the firm millions.
-
-❌ A. cursory = hasty and superficial  
-✅ B. careful = cautious; giving close attention  
-❌ C. hasty = done with excessive speed; rash  
-❌ D. careless = not giving sufficient attention; negligent  
-❌ E. negligent = failing to take proper care; careless
+> `A` inconsistent\
+> `B` opportunistic\
+> `C` principled\
+> `D` selective\
+> `E` fickle
 
-### 40. The report's ______ allowed readers to draw whatever conclusion they preferred.
-
-❌ A. precision = exactness; accuracy  
-✅ B. vagueness = lack of clarity or precision  
-❌ C. clarity = clearness; easy to understand  
-❌ D. exactness = precision; accuracy  
-❌ E. specificity = quality of being precise and particular
+**17.** His ______ for risk, betting everything on each venture, eventually ruined him.
 
-### 41. A ______ for order governed every aspect of his life.
-
-❌ A. indifference = lack of interest or concern  
-❌ B. laxity = lack of strictness or care  
-❌ C. disregard = to ignore; pay no attention to  
-❌ D. carelessness = failure to give proper attention  
-✅ E. mania = an obsessive enthusiasm; craze
+> `A` distaste\
+> `B` aversion\
+> `C` dread\
+> `D` wariness\
+> `E` appetite
 
-### 42. A famously ______ employer, she expected perfection and tolerated no excuses.
-
-❌ A. lenient = mild; not strict; merciful  
-❌ B. permissive = allowing great freedom; lenient  
-❌ C. indulgent = overly permissive; lenient  
-❌ D. lax = not strict enough; careless  
-✅ E. exacting = demanding great care and precision; strict
+**18.** So ______ was the document's prose that lawyers billed for hours just to parse it.
 
-### 43. The proposal was ______ from the start, lacking both funding and political support.
-
-❌ A. propitious = favorable; indicating good fortune  
-✅ B. doomed = destined to fail or be destroyed  
-❌ C. promising = showing signs of future success  
-❌ D. viable = capable of working successfully; feasible  
-❌ E. auspicious = favorable; promising success
+> `A` clear\
+> `B` lucid\
+> `C` transparent\
+> `D` convoluted\
+> `E` plain
 
-### 44. Her ______ in the courtroom, never raising her voice, unnerved hostile witnesses.
-
-❌ A. frenzy = wild uncontrolled excitement or agitation  
-❌ B. panic = sudden uncontrollable fear  
-✅ C. composure = calm self-control  
-❌ D. hysteria = uncontrollable emotional excess; panic  
-❌ E. agitation = anxiety or nervous excitement; disturbance
+**19.** His ______ command of several languages made him an invaluable member of the delegation.
 
-### 45. A ______ reader, she finished a novel in a single sitting more often than not.
-
-✅ A. rapid = very fast; swift  
-❌ B. plodding = slow-moving and laborious; dull  
-❌ C. reluctant = unwilling; hesitant  
-❌ D. laborious = requiring great effort; toilsome  
-❌ E. slow = moving at low speed; not quick
+> `A` faltering\
+> `B` rudimentary\
+> `C` fluent\
+> `D` halting\
+> `E` stumbling
 
-### 46. His ______ ambition drove him to seize opportunities others were too timid to pursue.
-
-❌ A. faltering = hesitant; unsteady; weakening  
-✅ B. relentless = unceasingly intense; never letting up  
-❌ C. flagging = weakening; declining  
-❌ D. waning = decreasing; declining  
-❌ E. hesitant = slow to act from uncertainty; tentative
+**20.** His ______ optimism, undimmed by repeated failure, was either inspiring or absurd.
 
-### 47. The policy's ______ effects, harming the very people it meant to help, soon became clear.
-
-❌ A. intended = planned; meant  
-❌ B. desired = wished for; wanted  
-❌ C. beneficial = producing good results; helpful  
-✅ D. perverse = contrary to what is expected or reasonable  
-❌ E. salutary = producing a beneficial effect; wholesome
+> `A` faltering\
+> `B` fragile\
+> `C` wavering\
+> `D` tentative\
+> `E` stubborn
 
-### 48. Her ______ humor, never cruel, put even nervous guests at ease.
-
-✅ A. gentle = mild and kind; not severe  
-❌ B. biting = sharp and cutting; harsh  
-❌ C. scathing = harshly critical; withering  
-❌ D. caustic = sarcastic and scathing; corrosive  
-❌ E. savage = fierce and violent; brutally cruel
+---
 
-### 49. The artist's ______ to convention, breaking every rule she could find, defined her career.
-
-❌ A. deference = respectful submission to another's judgment  
-✅ B. defiance = open resistance; bold disobedience  
-❌ C. submission = yielding to authority or another's will  
-❌ D. conformity = compliance with standards or conventions  
-❌ E. adherence = faithful attachment or obedience to something
+## Questions 21-30
 
-### 50. The argument's ______ lay in its refusal to confront the most obvious objection.
-
-✅ A. weakness = lack of strength; a flaw  
-❌ B. power = strength; forceful effectiveness  
-❌ C. strength = power; capacity to withstand force  
-❌ D. cogency = quality of being clear, logical, and convincing  
-❌ E. force = power; persuasive strength
+**21.** His ______ to authority, questioning every order, made him a difficult subordinate.
 
-### 51. His apology rang ______, delivered in a flat monotone that suggested no real regret.
-
-✅ A. hollow = without real significance; insincere  
-❌ B. sincere = genuine; free from pretense  
-❌ C. heartfelt = deeply and sincerely felt  
-❌ D. genuine = authentic; sincere  
-❌ E. earnest = sincere and serious
+> `A` obeisance\
+> `B` submission\
+> `C` resistance\
+> `D` servility\
+> `E` deference
 
-### 52. A ______ observer might have missed the subtle shift in her expression.
-
-✅ A. casual = relaxed and informal; offhand  
-❌ B. vigilant = keenly watchful for danger or problems  
-❌ C. keen = sharp; highly perceptive  
-❌ D. sharp = keen; quick to perceive; cutting  
-❌ E. attentive = paying close attention; observant
+**22.** The reforms were ______, their effects rippling through every level of society.
 
-### 53. His ______ rise from poverty to wealth became the stuff of local legend.
-
-✅ A. improbable = unlikely to be true or happen  
-❌ B. predictable = easily foreseen; expected  
-❌ C. inevitable = certain to happen; unavoidable  
-❌ D. expected = anticipated; predicted  
-❌ E. unremarkable = ordinary; not worth noting
+> `A` contained\
+> `B` limited\
+> `C` far-reaching\
+> `D` circumscribed\
+> `E` narrow
 
-### 54. The witness's account was riddled with ______, contradicting itself on nearly every point.
-
-❌ A. coherence = logical consistency; holding together  
-❌ B. accuracy = correctness; freedom from error  
-❌ C. consistency = steady agreement; uniformity  
-❌ D. precision = exactness; accuracy  
-✅ E. inconsistencies = contradictions; conflicting elements
+**23.** His ______ for grandeur led him to build a palace far beyond his means.
 
-### 55. Once ______, the river now runs clear, thanks to a decade of cleanup efforts.
-
-✅ A. polluted = contaminated; made impure  
-❌ B. unsullied = spotlessly clean; unspoiled  
-❌ C. pure = free of contamination; clean  
-❌ D. limpid = perfectly clear; transparent  
-❌ E. pristine = in original pure condition; unspoiled
+> `A` distaste\
+> `B` aversion\
+> `C` indifference\
+> `D` disdain\
+> `E` appetite
 
-### 56. His ______ under interrogation, never altering his story, persuaded the detectives.
-
-❌ A. inconsistency = lack of steady agreement; contradiction  
-❌ B. wavering = hesitating between choices; unsteady  
-❌ C. contradiction = a combination of statements that oppose each other  
-❌ D. vacillation = wavering between options; indecision  
-✅ E. consistency = steady agreement; uniformity
+**24.** The criticism was ______, aimed not at the work itself but at petty matters of formatting.
 
-### 57. Such ______ generosity was rare in a man known throughout his life for guarding every penny.
-
-❌ A. habitual = done regularly by habit; customary  
-❌ B. typical = characteristic; usual  
-❌ C. customary = usual; according to habit  
-❌ D. characteristic = typical of a person or thing  
-✅ E. unwonted = unusual; out of the ordinary
+> `A` insightful\
+> `B` constructive\
+> `C` substantive\
+> `D` penetrating\
+> `E` captious
 
-### 58. So ______ was her grief that words failed her entirely.
-
-❌ A. slight = small in degree; insignificant  
-✅ B. profound = very deep; showing great insight  
-❌ C. mild = gentle; not severe  
-❌ D. superficial = existing only at the surface; shallow  
-❌ E. faint = barely perceptible; weak
+**25.** His ______ in defeat, gracious and uncomplaining, impressed even his opponents.
 
-### 59. His ______ disregard for safety put the entire crew at risk.
-
-❌ A. careful = cautious; giving close attention  
-❌ B. prudent = showing careful good judgment; wise  
-❌ C. cautious = careful to avoid risk  
-❌ D. circumspect = wary; carefully considering consequences  
-✅ E. reckless = acting without regard for consequences
+> `A` dignity\
+> `B` bitterness\
+> `C` rancor\
+> `D` spite\
+> `E` petulance
 
-### 60. The general's ______ retreat, abandoning his position without a fight, baffled his officers.
-
-❌ A. deliberate = done consciously and intentionally; unhurried  
-✅ B. precipitate = done with rash haste; abrupt  
-❌ C. measured = carefully restrained and deliberate  
-❌ D. orderly = neatly arranged; methodical  
-❌ E. calculated = carefully planned; deliberate
+**26.** The committee's ______, debating endlessly without acting, became a public embarrassment.
 
-### 61. Her ______ to flattery made her immune to the manipulations that ensnared her colleagues.
-
-❌ A. vulnerability = openness to attack or harm  
-❌ B. receptivity = openness to ideas or impressions  
-❌ C. susceptibility = vulnerability; being easily affected  
-❌ D. openness = frankness; receptivity  
-✅ E. imperviousness = state of being unaffected or unmoved by
+> `A` paralysis\
+> `B` alacrity\
+> `C` efficiency\
+> `D` decisiveness\
+> `E` resolve
 
-### 62. A ______ optimist, she found a silver lining in even the bleakest news.
-
-❌ A. occasional = happening from time to time  
-❌ B. grudging = given reluctantly or resentfully  
-❌ C. halfhearted = lacking enthusiasm or commitment  
-✅ D. incorrigible = incapable of being corrected or reformed  
-❌ E. reluctant = unwilling; hesitant
+**27.** His ______ in negotiation, holding firm when others would fold, secured the better terms.
 
-### 63. The argument's ______ was exposed the moment its central assumption was questioned.
-
-❌ A. sturdiness = strong solidity; robustness  
-❌ B. strength = power; capacity to withstand force  
-❌ C. robustness = strength; sturdiness  
-❌ D. soundness = logical validity; good condition  
-✅ E. fragility = delicacy; weakness
+> `A` wavering\
+> `B` vacillation\
+> `C` irresolution\
+> `D` faltering\
+> `E` steadiness
 
-### 64. The argument is ______, advancing by careful steps toward an undeniable conclusion.
-
-✅ A. methodical = done in a systematic, orderly way  
-❌ B. haphazard = lacking order or plan; random  
-❌ C. erratic = unpredictable; irregular  
-❌ D. slapdash = hasty and careless  
-❌ E. disjointed = lacking coherent connection
+**28.** The town's ______ charm drew tourists seeking an escape from the city.
 
-### 65. The reforms proved ______, unraveling within months of their passage.
-
-❌ A. lasting = enduring; permanent  
-✅ B. ephemeral = lasting a very short time  
-❌ C. enduring = lasting; permanent  
-❌ D. permanent = lasting indefinitely  
-❌ E. durable = able to last; hard-wearing
+> `A` quaint\
+> `B` sleek\
+> `C` modern\
+> `D` urban\
+> `E` industrial
 
-### 66. A ______ for solitude grew stronger as she aged.
-
-❌ A. loathing = intense hatred or disgust  
-❌ B. distaste = mild dislike or aversion  
-✅ C. yearning = an intense longing  
-❌ D. aversion = strong dislike  
-❌ E. dread = great fear or apprehension
+**29.** The report was ______, burying its few useful findings in pages of filler.
 
-### 67. So ______ was the evidence against him that his lawyers advised a plea.
-
-❌ A. favorable = advantageous; expressing approval  
-❌ B. flimsy = weak and insubstantial; easily seen through  
-❌ C. exculpatory = tending to clear from blame  
-❌ D. weak = lacking strength or force  
-✅ E. damning = strongly condemning; proving guilt
+> `A` trim\
+> `B` bloated\
+> `C` concise\
+> `D` lean\
+> `E` spare
 
-### 68. The argument rests on a ______ assumption that the author never bothers to defend.
-
-❌ A. sound = logically valid; in good condition  
-✅ B. dubious = doubtful; of questionable value  
-❌ C. well-founded = based on good evidence; justified  
-❌ D. incontestable = impossible to dispute; unquestionable  
-❌ E. warranted = justified; authorized
+**30.** His ______ in adversity, never once complaining, won the respect of his peers.
 
-### 69. The director's ______ vision, unlike anything before it, redefined the genre.
-
-❌ A. imitative = copying others; unoriginal  
-❌ B. unoriginal = lacking novelty; derivative  
-✅ C. singular = exceptionally unique; remarkable  
-❌ D. derivative = imitative of others' work; unoriginal  
-❌ E. conventional = following accepted customs; ordinary
+> `A` petulance\
+> `B` peevishness\
+> `C` self-pity\
+> `D` whining\
+> `E` stoicism
 
-### 70. The evidence ______ the defendant's alibi, placing him miles from the scene.
-
-❌ A. demolished = completely destroyed  
-✅ B. corroborated = confirmed with supporting evidence  
-❌ C. contradicted = asserted the opposite of; denied  
-❌ D. undermined = weakened gradually from below  
-❌ E. refuted = proven to be wrong
+---
 
-### 71. The lecture was ______, packing a semester's insight into a single hour.
-
-❌ A. slight = small in degree; insignificant  
-❌ B. thin = lacking substance; weak  
-❌ C. sparse = thinly scattered; scanty  
-❌ D. meager = small in quantity; insufficient  
-✅ E. dense = packed tightly; rich in content
+## Questions 31-40
 
-### 72. The treaty proved ______, holding firm through three subsequent crises.
-
-❌ A. fragile = easily broken or damaged; delicate  
-❌ B. precarious = dangerously insecure; unstable  
-❌ C. brittle = hard but easily broken; fragile  
-✅ D. durable = able to last; hard-wearing  
-❌ E. ephemeral = lasting a very short time
+**31.** The novel's prose is so ______ that readers often must consult a dictionary to follow even a single paragraph.
 
-### 73. The reforms were ______, addressing symptoms while leaving the underlying problem entirely untouched.
-
-❌ A. sweeping = wide in range or effect; comprehensive  
-❌ B. thorough = complete in every detail  
-❌ C. radical = far-reaching; extreme; fundamental  
-❌ D. fundamental = basic and essential; central  
-✅ E. cosmetic = affecting appearance only; superficial
+> `A` abstruse\
+> `B` colloquial\
+> `C` accessible\
+> `D` pellucid\
+> `E` spare
 
-### 74. The novel's ______ realism, sparing the reader nothing, made it hard to put down and harder to forget.
-
-❌ A. sanitized = cleaned up; made less offensive or shocking  
-❌ B. muted = softened; subdued in intensity  
-❌ C. softened = made gentler or less harsh  
-❌ D. sentimental = excessively tender or nostalgic  
-✅ E. unflinching = not shrinking from difficulty; unwavering
+**32.** A ______ for the grandiose led the architect to ever more extravagant designs.
 
-### 75. So ______ was her resolve that no obstacle could deter her.
-
-✅ A. firm = steady; resolute; unyielding  
-❌ B. shaky = unstable; unreliable  
-❌ C. faltering = hesitant; unsteady; weakening  
-❌ D. wavering = hesitating between choices; unsteady  
-❌ E. tentative = hesitant; provisional; uncertain
+> `A` aversion\
+> `B` disdain\
+> `C` taste\
+> `D` contempt\
+> `E` distaste
 
-### 76. His ______ generosity left him nearly bankrupt, for he could refuse no request for help.
-
-❌ A. prudent = showing careful good judgment; wise  
-✅ B. indiscriminate = done without careful judgment; random  
-❌ C. calculated = carefully planned; deliberate  
-❌ D. judicious = showing sound judgment; wise  
-❌ E. measured = carefully restrained and deliberate
+**33.** The reforms were ______, leaving the system worse than they found it.
 
-### 77. So ______ was the disagreement that the partnership dissolved within the year.
-
-❌ A. friendly = kind and pleasant  
-✅ B. bitter = full of resentment; harsh  
-❌ C. amicable = friendly; without hostility  
-❌ D. gentle = mild and kind; not severe  
-❌ E. cordial = warm and friendly
+> `A` counterproductive\
+> `B` salutary\
+> `C` helpful\
+> `D` beneficial\
+> `E` constructive
 
-### 78. The committee's recommendations were ______, leaving the minister free to do as he pleased.
-
-❌ A. forceful = strong and assertive  
-❌ B. authoritative = commanding and reliable; official  
-❌ C. binding = imposing an obligation; compulsory  
-❌ D. decisive = settling an issue conclusively; resolute  
-✅ E. toothless = lacking force or power; ineffective
+**34.** The committee dismissed his idea as ______, far too impractical to merit serious discussion.
 
-### 79. The author's ______ disregard for fact made the biography read more like a novel.
-
-✅ A. cavalier = showing offhand disregard; dismissive  
-❌ B. scrupulous = diligent and extremely thorough; principled  
-❌ C. meticulous = extremely careful about details; precise  
-❌ D. fastidious = very attentive to detail; hard to please  
-❌ E. punctilious = scrupulously attentive to fine points
+> `A` viable\
+> `B` chimerical\
+> `C` workable\
+> `D` feasible\
+> `E` practicable
 
-### 80. The critic's ______ assessment, withholding both praise and blame, frustrated the eager author.
-
-❌ A. glowing = full of enthusiastic praise  
-✅ B. neutral = not taking sides; impartial  
-❌ C. damning = strongly condemning; proving guilt  
-❌ D. effusive = expressing feelings in an unrestrained, gushing way  
-❌ E. scathing = harshly critical; withering
+**35.** A ______ reader of character, she sized up strangers within minutes.
 
-### 81. The professor's ______ command of the material allowed her to answer the hardest questions without hesitation.
-
-❌ A. faltering = hesitant; unsteady; weakening  
-✅ B. masterful = showing great skill; expert  
-❌ C. tenuous = very weak or slight; flimsy  
-❌ D. shaky = unstable; unreliable  
-❌ E. superficial = existing only at the surface; shallow
+> `A` obtuse\
+> `B` careless\
+> `C` undiscerning\
+> `D` shrewd\
+> `E` poor
 
-### 82. The verdict's ______ left both sides feeling vindicated.
-
-❌ A. clarity = clearness; easy to understand  
-✅ B. ambiguity = quality of having more than one meaning; uncertainty  
-❌ C. precision = exactness; accuracy  
-❌ D. decisiveness = ability to decide quickly and firmly  
-❌ E. finality = the quality of being settled and unalterable
+**36.** So ______ was her account that the editor printed it without changing a word.
 
-### 83. So ______ was the proof that it ended the debate for good.
-
-❌ A. inconclusive = not settling an issue; indecisive  
-❌ B. ambiguous = open to more than one interpretation; unclear  
-✅ C. decisive = settling an issue conclusively; resolute  
-❌ D. tentative = hesitant; provisional; uncertain  
-❌ E. equivocal = ambiguous; open to multiple interpretations
+> `A` clumsy\
+> `B` rough\
+> `C` crude\
+> `D` polished\
+> `E` unrefined
 
-### 84. So ______ was the response that organizers had to turn away thousands.
-
-✅ A. overwhelming = overpoweringly great in force or numbers  
-❌ B. tepid = lukewarm; showing little enthusiasm  
-❌ C. feeble = weak; lacking strength  
-❌ D. scant = barely sufficient; meager  
-❌ E. muted = softened; subdued in intensity
+**37.** The new manager's ______ approach, micromanaging every task, soon exhausted the entire team.
 
-### 85. A ______ for the theatrical made his lectures performances in their own right.
-
-❌ A. disdain = look down upon; scorn  
-❌ B. distaste = mild dislike or aversion  
-❌ C. contempt = feeling that something is worthless; scorn  
-✅ D. gift = a natural talent  
-❌ E. aversion = strong dislike
+> `A` laissez-faire\
+> `B` aloof\
+> `C` detached\
+> `D` officious\
+> `E` hands-off
 
-### 86. His ______ in conversation, never letting another speak, drove guests from the table.
-
-❌ A. diffidence = shyness from lack of self-confidence  
-❌ B. reserve = restraint in expressing feelings; aloofness  
-❌ C. deference = respectful submission to another's judgment  
-✅ D. domination = control or supremacy over others  
-❌ E. reticence = reluctance to speak; reserve
+**38.** A ______ negotiator, she secured concessions that her predecessors had failed to win in years.
 
-### 87. The detective's ______ scrutiny of the scene uncovered a clue three teams had missed.
-
-❌ A. perfunctory = done mechanically with minimal effort or care  
-✅ B. meticulous = extremely careful about details; precise  
-❌ C. cursory = hasty and superficial  
-❌ D. careless = not giving sufficient attention; negligent  
-❌ E. hasty = done with excessive speed; rash
+> `A` hapless\
+> `B` bumbling\
+> `C` consummate\
+> `D` clumsy\
+> `E` inept
 
-### 88. A naturally ______ man, he found the relentless socializing of the campaign almost unbearable.
-
-✅ A. reticent = reluctant to speak; reserved  
-❌ B. effusive = expressing feelings in an unrestrained, gushing way  
-❌ C. garrulous = excessively talkative  
-❌ D. convivial = friendly and sociable; festive  
-❌ E. gregarious = sociable; fond of company
-
-### 89. The reforms were ______ enough to satisfy critics without alarming the establishment.
-
-❌ A. drastic = extreme in effect; severe  
-❌ B. revolutionary = involving dramatic, complete change  
-❌ C. radical = far-reaching; extreme; fundamental  
-✅ D. modest = unassuming; limited in size or ambition  
-❌ E. sweeping = wide in range or effect; comprehensive
-
-### 90. The verdict brought a sense of ______ to a community that had waited years for justice.
-
-✅ A. closure = a sense of resolution or finality  
-❌ B. disquiet = uneasiness; anxiety  
-❌ C. turmoil = state of great disturbance or confusion  
-❌ D. upheaval = violent disruption or change  
-❌ E. agitation = anxiety or nervous excitement; disturbance
-
-### 91. His ______ to the rules, observing each to the letter, slowed every transaction.
-
-❌ A. flouting = openly disregarding (rules or conventions)  
-❌ B. disregard = to ignore; pay no attention to  
-✅ C. adherence = faithful attachment or obedience to something  
-❌ D. indifference = lack of interest or concern  
-❌ E. contempt = feeling that something is worthless; scorn
-
-### 92. The policy was ______, treating wildly different cases as if they were identical.
-
-❌ A. subtle = delicately understated; not obvious  
-❌ B. discerning = showing good judgment and insight  
-✅ C. heavy-handed = clumsy, insensitive, or oppressively forceful  
-❌ D. nuanced = marked by subtle shades of meaning  
-❌ E. calibrated = carefully adjusted or measured
-
-### 93. A ______ reader, he devoured everything from physics journals to pulp fiction.
-
-❌ A. desultory = lacking plan or purpose; aimless  
-❌ B. listless = lacking energy or enthusiasm  
-❌ C. reluctant = unwilling; hesitant  
-✅ D. voracious = having a huge appetite; insatiable  
-❌ E. indifferent = showing no interest or concern
-
-### 94. Far from being the radical its critics claimed, the policy was in fact remarkably ______, changing little of the existing system.
-
-❌ A. subversive = seeking to undermine established institutions  
-❌ B. incendiary = designed to stir up conflict; inflammatory  
-✅ C. conservative = resistant to change; traditional  
-❌ D. novel = new and original  
-❌ E. sweeping = wide in range or effect; comprehensive
-
-### 95. The novel's ______ pacing kept readers turning pages well past midnight.
-
-❌ A. leisurely = unhurried; relaxed  
-✅ B. relentless = unceasingly intense; never letting up  
-❌ C. plodding = slow-moving and laborious; dull  
-❌ D. sluggish = slow-moving; lacking energy  
-❌ E. languid = slow, relaxed, and lacking energy
-
-### 96. The speech was ______, swollen with grand phrases that on inspection meant very little.
-
-❌ A. laconic = using very few words; terse  
-❌ B. spare = plain and unadorned; lean  
-❌ C. succinct = briefly and clearly expressed  
-✅ D. grandiloquent = pompous and extravagant in language  
-❌ E. terse = sparing in words; brief and to the point
-
-### 97. Her ______ to detail, checking every figure twice, made her invaluable to the firm.
-
-❌ A. negligence = failure to take proper care  
-❌ B. heedlessness = reckless inattention  
-❌ C. carelessness = failure to give proper attention  
-❌ D. indifference = lack of interest or concern  
-✅ E. attention = careful notice or consideration
-
-### 98. The textbook's ______ explanations made a notoriously difficult subject suddenly approachable.
-
-✅ A. limpid = perfectly clear; transparent  
-❌ B. convoluted = extremely complex and hard to follow  
-❌ C. murky = dark and gloomy; obscure  
-❌ D. turbid = muddy and unclear; confused  
-❌ E. opaque = impossible to see through or understand
-
-### 99. The witness's ______ memory of the night supplied the missing piece of the puzzle.
-
-❌ A. dim = faint; not clearly remembered  
-❌ B. hazy = unclear; vague  
-❌ C. clouded = made unclear; obscured  
-❌ D. faint = barely perceptible; weak  
-✅ E. vivid = intensely clear and striking
-
-### 100. The reviewer dismissed the film as utterly ______, a tired collection of clichés audiences had seen a hundred times.
-
-❌ A. inventive = creative; original  
-❌ B. groundbreaking = innovative; pioneering  
-❌ C. original = new and inventive; not copied  
-✅ D. derivative = imitative of others' work; unoriginal  
-❌ E. innovative = introducing new ideas; original
+**39.** A ______ reader of contracts, she caught the clause that would have cost the firm millions.
+
+> `A` cursory\
+> `B` careful\
+> `C` hasty\
+> `D` careless\
+> `E` negligent
+
+**40.** The report's ______ allowed readers to draw whatever conclusion they preferred.
+
+> `A` precision\
+> `B` vagueness\
+> `C` clarity\
+> `D` exactness\
+> `E` specificity
+
+---
+
+## Questions 41-50
+
+**41.** A ______ for order governed every aspect of his life.
+
+> `A` indifference\
+> `B` laxity\
+> `C` disregard\
+> `D` carelessness\
+> `E` mania
+
+**42.** A famously ______ employer, she expected perfection and tolerated no excuses.
+
+> `A` lenient\
+> `B` permissive\
+> `C` indulgent\
+> `D` lax\
+> `E` exacting
+
+**43.** The proposal was ______ from the start, lacking both funding and political support.
+
+> `A` propitious\
+> `B` doomed\
+> `C` promising\
+> `D` viable\
+> `E` auspicious
+
+**44.** Her ______ in the courtroom, never raising her voice, unnerved hostile witnesses.
+
+> `A` frenzy\
+> `B` panic\
+> `C` composure\
+> `D` hysteria\
+> `E` agitation
+
+**45.** A ______ reader, she finished a novel in a single sitting more often than not.
+
+> `A` rapid\
+> `B` plodding\
+> `C` reluctant\
+> `D` laborious\
+> `E` slow
+
+**46.** His ______ ambition drove him to seize opportunities others were too timid to pursue.
+
+> `A` faltering\
+> `B` relentless\
+> `C` flagging\
+> `D` waning\
+> `E` hesitant
+
+**47.** The policy's ______ effects, harming the very people it meant to help, soon became clear.
+
+> `A` intended\
+> `B` desired\
+> `C` beneficial\
+> `D` perverse\
+> `E` salutary
+
+**48.** Her ______ humor, never cruel, put even nervous guests at ease.
+
+> `A` gentle\
+> `B` biting\
+> `C` scathing\
+> `D` caustic\
+> `E` savage
+
+**49.** The artist's ______ to convention, breaking every rule she could find, defined her career.
+
+> `A` deference\
+> `B` defiance\
+> `C` submission\
+> `D` conformity\
+> `E` adherence
+
+**50.** The argument's ______ lay in its refusal to confront the most obvious objection.
+
+> `A` weakness\
+> `B` power\
+> `C` strength\
+> `D` cogency\
+> `E` force
+
+---
+
+## Questions 51-60
+
+**51.** His apology rang ______, delivered in a flat monotone that suggested no real regret.
+
+> `A` hollow\
+> `B` sincere\
+> `C` heartfelt\
+> `D` genuine\
+> `E` earnest
+
+**52.** A ______ observer might have missed the subtle shift in her expression.
+
+> `A` casual\
+> `B` vigilant\
+> `C` keen\
+> `D` sharp\
+> `E` attentive
+
+**53.** His ______ rise from poverty to wealth became the stuff of local legend.
+
+> `A` improbable\
+> `B` predictable\
+> `C` inevitable\
+> `D` expected\
+> `E` unremarkable
+
+**54.** The witness's account was riddled with ______, contradicting itself on nearly every point.
+
+> `A` coherence\
+> `B` accuracy\
+> `C` consistency\
+> `D` precision\
+> `E` inconsistencies
+
+**55.** Once ______, the river now runs clear, thanks to a decade of cleanup efforts.
+
+> `A` polluted\
+> `B` unsullied\
+> `C` pure\
+> `D` limpid\
+> `E` pristine
+
+**56.** His ______ under interrogation, never altering his story, persuaded the detectives.
+
+> `A` inconsistency\
+> `B` wavering\
+> `C` contradiction\
+> `D` vacillation\
+> `E` consistency
+
+**57.** Such ______ generosity was rare in a man known throughout his life for guarding every penny.
+
+> `A` habitual\
+> `B` typical\
+> `C` customary\
+> `D` characteristic\
+> `E` unwonted
+
+**58.** So ______ was her grief that words failed her entirely.
+
+> `A` slight\
+> `B` profound\
+> `C` mild\
+> `D` superficial\
+> `E` faint
+
+**59.** His ______ disregard for safety put the entire crew at risk.
+
+> `A` careful\
+> `B` prudent\
+> `C` cautious\
+> `D` circumspect\
+> `E` reckless
+
+**60.** The general's ______ retreat, abandoning his position without a fight, baffled his officers.
+
+> `A` deliberate\
+> `B` precipitate\
+> `C` measured\
+> `D` orderly\
+> `E` calculated
+
+---
+
+## Questions 61-70
+
+**61.** Her ______ to flattery made her immune to the manipulations that ensnared her colleagues.
+
+> `A` vulnerability\
+> `B` receptivity\
+> `C` susceptibility\
+> `D` openness\
+> `E` imperviousness
+
+**62.** A ______ optimist, she found a silver lining in even the bleakest news.
+
+> `A` occasional\
+> `B` grudging\
+> `C` halfhearted\
+> `D` incorrigible\
+> `E` reluctant
+
+**63.** The argument's ______ was exposed the moment its central assumption was questioned.
+
+> `A` sturdiness\
+> `B` strength\
+> `C` robustness\
+> `D` soundness\
+> `E` fragility
+
+**64.** The argument is ______, advancing by careful steps toward an undeniable conclusion.
+
+> `A` methodical\
+> `B` haphazard\
+> `C` erratic\
+> `D` slapdash\
+> `E` disjointed
+
+**65.** The reforms proved ______, unraveling within months of their passage.
+
+> `A` lasting\
+> `B` ephemeral\
+> `C` enduring\
+> `D` permanent\
+> `E` durable
+
+**66.** A ______ for solitude grew stronger as she aged.
+
+> `A` loathing\
+> `B` distaste\
+> `C` yearning\
+> `D` aversion\
+> `E` dread
+
+**67.** So ______ was the evidence against him that his lawyers advised a plea.
+
+> `A` favorable\
+> `B` flimsy\
+> `C` exculpatory\
+> `D` weak\
+> `E` damning
+
+**68.** The argument rests on a ______ assumption that the author never bothers to defend.
+
+> `A` sound\
+> `B` dubious\
+> `C` well-founded\
+> `D` incontestable\
+> `E` warranted
+
+**69.** The director's ______ vision, unlike anything before it, redefined the genre.
+
+> `A` imitative\
+> `B` unoriginal\
+> `C` singular\
+> `D` derivative\
+> `E` conventional
+
+**70.** The evidence ______ the defendant's alibi, placing him miles from the scene.
+
+> `A` demolished\
+> `B` corroborated\
+> `C` contradicted\
+> `D` undermined\
+> `E` refuted
+
+---
+
+## Questions 71-80
+
+**71.** The lecture was ______, packing a semester's insight into a single hour.
+
+> `A` slight\
+> `B` thin\
+> `C` sparse\
+> `D` meager\
+> `E` dense
+
+**72.** The treaty proved ______, holding firm through three subsequent crises.
+
+> `A` fragile\
+> `B` precarious\
+> `C` brittle\
+> `D` durable\
+> `E` ephemeral
+
+**73.** The reforms were ______, addressing symptoms while leaving the underlying problem entirely untouched.
+
+> `A` sweeping\
+> `B` thorough\
+> `C` radical\
+> `D` fundamental\
+> `E` cosmetic
+
+**74.** The novel's ______ realism, sparing the reader nothing, made it hard to put down and harder to forget.
+
+> `A` sanitized\
+> `B` muted\
+> `C` softened\
+> `D` sentimental\
+> `E` unflinching
+
+**75.** So ______ was her resolve that no obstacle could deter her.
+
+> `A` firm\
+> `B` shaky\
+> `C` faltering\
+> `D` wavering\
+> `E` tentative
+
+**76.** His ______ generosity left him nearly bankrupt, for he could refuse no request for help.
+
+> `A` prudent\
+> `B` indiscriminate\
+> `C` calculated\
+> `D` judicious\
+> `E` measured
+
+**77.** So ______ was the disagreement that the partnership dissolved within the year.
+
+> `A` friendly\
+> `B` bitter\
+> `C` amicable\
+> `D` gentle\
+> `E` cordial
+
+**78.** The committee's recommendations were ______, leaving the minister free to do as he pleased.
+
+> `A` forceful\
+> `B` authoritative\
+> `C` binding\
+> `D` decisive\
+> `E` toothless
+
+**79.** The author's ______ disregard for fact made the biography read more like a novel.
+
+> `A` cavalier\
+> `B` scrupulous\
+> `C` meticulous\
+> `D` fastidious\
+> `E` punctilious
+
+**80.** The critic's ______ assessment, withholding both praise and blame, frustrated the eager author.
+
+> `A` glowing\
+> `B` neutral\
+> `C` damning\
+> `D` effusive\
+> `E` scathing
+
+---
+
+## Questions 81-90
+
+**81.** The professor's ______ command of the material allowed her to answer the hardest questions without hesitation.
+
+> `A` faltering\
+> `B` masterful\
+> `C` tenuous\
+> `D` shaky\
+> `E` superficial
+
+**82.** The verdict's ______ left both sides feeling vindicated.
+
+> `A` clarity\
+> `B` ambiguity\
+> `C` precision\
+> `D` decisiveness\
+> `E` finality
+
+**83.** So ______ was the proof that it ended the debate for good.
+
+> `A` inconclusive\
+> `B` ambiguous\
+> `C` decisive\
+> `D` tentative\
+> `E` equivocal
+
+**84.** So ______ was the response that organizers had to turn away thousands.
+
+> `A` overwhelming\
+> `B` tepid\
+> `C` feeble\
+> `D` scant\
+> `E` muted
+
+**85.** A ______ for the theatrical made his lectures performances in their own right.
+
+> `A` disdain\
+> `B` distaste\
+> `C` contempt\
+> `D` gift\
+> `E` aversion
+
+**86.** His ______ in conversation, never letting another speak, drove guests from the table.
+
+> `A` diffidence\
+> `B` reserve\
+> `C` deference\
+> `D` domination\
+> `E` reticence
+
+**87.** The detective's ______ scrutiny of the scene uncovered a clue three teams had missed.
+
+> `A` perfunctory\
+> `B` meticulous\
+> `C` cursory\
+> `D` careless\
+> `E` hasty
+
+**88.** A naturally ______ man, he found the relentless socializing of the campaign almost unbearable.
+
+> `A` reticent\
+> `B` effusive\
+> `C` garrulous\
+> `D` convivial\
+> `E` gregarious
+
+**89.** The reforms were ______ enough to satisfy critics without alarming the establishment.
+
+> `A` drastic\
+> `B` revolutionary\
+> `C` radical\
+> `D` modest\
+> `E` sweeping
+
+**90.** The verdict brought a sense of ______ to a community that had waited years for justice.
+
+> `A` closure\
+> `B` disquiet\
+> `C` turmoil\
+> `D` upheaval\
+> `E` agitation
+
+---
+
+## Questions 91-100
+
+**91.** His ______ to the rules, observing each to the letter, slowed every transaction.
+
+> `A` flouting\
+> `B` disregard\
+> `C` adherence\
+> `D` indifference\
+> `E` contempt
+
+**92.** The policy was ______, treating wildly different cases as if they were identical.
+
+> `A` subtle\
+> `B` discerning\
+> `C` heavy-handed\
+> `D` nuanced\
+> `E` calibrated
+
+**93.** A ______ reader, he devoured everything from physics journals to pulp fiction.
+
+> `A` desultory\
+> `B` listless\
+> `C` reluctant\
+> `D` voracious\
+> `E` indifferent
+
+**94.** Far from being the radical its critics claimed, the policy was in fact remarkably ______, changing little of the existing system.
+
+> `A` subversive\
+> `B` incendiary\
+> `C` conservative\
+> `D` novel\
+> `E` sweeping
+
+**95.** The novel's ______ pacing kept readers turning pages well past midnight.
+
+> `A` leisurely\
+> `B` relentless\
+> `C` plodding\
+> `D` sluggish\
+> `E` languid
+
+**96.** The speech was ______, swollen with grand phrases that on inspection meant very little.
+
+> `A` laconic\
+> `B` spare\
+> `C` succinct\
+> `D` grandiloquent\
+> `E` terse
+
+**97.** Her ______ to detail, checking every figure twice, made her invaluable to the firm.
+
+> `A` negligence\
+> `B` heedlessness\
+> `C` carelessness\
+> `D` indifference\
+> `E` attention
+
+**98.** The textbook's ______ explanations made a notoriously difficult subject suddenly approachable.
+
+> `A` limpid\
+> `B` convoluted\
+> `C` murky\
+> `D` turbid\
+> `E` opaque
+
+**99.** The witness's ______ memory of the night supplied the missing piece of the puzzle.
+
+> `A` dim\
+> `B` hazy\
+> `C` clouded\
+> `D` faint\
+> `E` vivid
+
+**100.** The reviewer dismissed the film as utterly ______, a tired collection of clichés audiences had seen a hundred times.
+
+> `A` inventive\
+> `B` groundbreaking\
+> `C` original\
+> `D` derivative\
+> `E` innovative
+
+---
+
+[⬅ Back to index](README.md)
