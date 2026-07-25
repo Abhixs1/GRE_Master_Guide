@@ -1,808 +1,864 @@
-# Questions 301–400
+<div align="center">
 
-[⬅ Back to index](README.md)
+# 📚 Vocabulary — Fill in the Blank
+
+### Questions 301–400
+
+*Choose the word that best completes each sentence.*
+
+![Questions](https://img.shields.io/badge/questions-100-blue) ![Format](https://img.shields.io/badge/format-multiple--choice-brightgreen) ![Level](https://img.shields.io/badge/level-advanced-orange)
+
+</div>
 
 ---
 
-### 301. The essay's ______ made a hard subject suddenly easy.
-
-✅ **A. pellucidity** = perfect clarity  
-❌ **B. obscurity** = the state of being unknown or unclear  
-❌ **C. opacity** = the quality of being hard to see through or understand  
-✅ **D. clarity** = clearness; lucidity  
-❌ **E. murkiness** = cloudiness; obscurity  
+[⬅ Back to index](README.md)
 
-### 302. He tried to ______ his disappointment behind a forced smile.
-
-❌ **A. expose** = reveal; uncover  
-✅ **B. feign** = pretend; fake  
-❌ **C. disclose** = reveal; make known  
-❌ **D. reveal** = make known  
-✅ **E. dissemble** = hide one's true feelings  
+## 🧭 Contents
 
-### 303. The board voted to ______ the official for misusing public funds.
-
-❌ **A. laud** = praise highly  
-❌ **B. extol** = praise enthusiastically  
-✅ **C. reproach** = express disapproval of; blame  
-❌ **D. commend** = praise formally  
-✅ **E. censure** = express severe disapproval of  
+| [301–310](#questions-301-310) | [311–320](#questions-311-320) | [321–330](#questions-321-330) | [331–340](#questions-331-340) | [341–350](#questions-341-350) |
+|:---:|:---:|:---:|:---:|:---:|
+| [351–360](#questions-351-360) | [361–370](#questions-361-370) | [371–380](#questions-371-380) | [381–390](#questions-381-390) | [391–400](#questions-391-400) |
 
-### 304. Their ______ meetings, arranged by coded notes, escaped the censors for months.
-
-❌ **A. public** = open to all; not private  
-✅ **B. clandestine** = kept secret; done secretively  
-❌ **C. open** = not hidden; frank  
-❌ **D. overt** = done openly  
-✅ **E. surreptitious** = done secretly; stealthy  
+---
 
-### 305. Old grievances colored his account with ______.
-
-❌ **A. objectivity** = freedom from bias  
-❌ **B. fairness** = impartial treatment  
-❌ **C. neutrality** = the state of not taking sides  
-✅ **D. prejudice** = preconceived unfair opinion; bias  
-✅ **E. jaundice** = bitterness; distorted prejudice  
+## Questions 301-310
 
-### 306. The ______ traffic outside drowned out the lecture.
-
-❌ **A. euphonious** = pleasant-sounding  
-❌ **B. harmonious** = in agreement; pleasingly combined  
-✅ **C. discordant** = clashing; not in harmony  
-✅ **D. cacophonous** = harsh-sounding; discordant  
-❌ **E. melodious** = pleasant-sounding; tuneful  
+**301.** The essay's ______ made a hard subject suddenly easy.
 
-### 307. Her ______ sleep left her exhausted by morning.
-
-❌ **A. constant** = unchanging; continuous  
-✅ **B. fitful** = irregular; starting and stopping  
-❌ **C. steady** = firm; constant  
-✅ **D. intermittent** = stopping and starting at intervals  
-❌ **E. continuous** = unbroken; without interruption  
+> `A` pellucidity\
+> `B` obscurity\
+> `C` opacity\
+> `D` clarity\
+> `E` murkiness
 
-### 308. The show's ______ of the powerful drew both laughter and lawsuits.
-
-❌ **A. lauding** = praising  
-❌ **B. honoring** = showing respect to  
-✅ **C. mocking** = ridiculing; scornfully imitating  
-❌ **D. praising** = expressing approval  
-✅ **E. lampooning** = mocking through satire  
+**302.** He tried to ______ his disappointment behind a forced smile.
 
-### 309. The judge issued a sharp ______ to the lawyer for the outburst.
-
-❌ **A. praise** = express approval of  
-✅ **B. rebuke** = scold sharply  
-✅ **C. reprimand** = a formal rebuke  
-❌ **D. commend** = praise formally  
-❌ **E. laud** = praise highly  
+> `A` expose\
+> `B` feign\
+> `C` disclose\
+> `D` reveal\
+> `E` dissemble
 
-### 310. Rather than prolong the quarrel, she chose to ______ to their demands.
-
-❌ **A. protest** = object; express disapproval  
-✅ **B. acquiesce** = accept reluctantly without protest  
-❌ **C. object** = express opposition  
-❌ **D. resist** = withstand; oppose  
-✅ **E. assent** = agree; express approval  
+**303.** The board voted to ______ the official for misusing public funds.
 
-### 311. The report's deliberate ______ hid the true cost from the public.
-
-✅ **A. obfuscation** = deliberate confusion or obscuring  
-✅ **B. confusion** = lack of clarity; bewilderment  
-❌ **C. clarity** = clearness; lucidity  
-❌ **D. candor** = open honesty  
-❌ **E. transparency** = openness; clearness  
+> `A` laud\
+> `B` extol\
+> `C` reproach\
+> `D` commend\
+> `E` censure
 
-### 312. The lender was charged with ______ for the crippling interest rates.
-
-❌ **A. charity** = generosity toward the needy  
-❌ **B. generosity** = willingness to give freely  
-✅ **C. usury** = lending money at exorbitant interest  
-❌ **D. fairness** = impartial treatment  
-✅ **E. exploitation** = unfair use of others for gain  
+**304.** Their ______ meetings, arranged by coded notes, escaped the censors for months.
 
-### 313. The team's ______ defeat ended their championship hopes for the year.
-
-✅ **A. humiliating** = causing shame and embarrassment  
-❌ **B. glorious** = deserving great honor; magnificent  
-❌ **C. triumphant** = victorious; exultant  
-✅ **D. ignominious** = deeply humiliating; disgraceful  
-❌ **E. honorable** = deserving respect; upright  
+> `A` public\
+> `B` clandestine\
+> `C` open\
+> `D` overt\
+> `E` surreptitious
 
-### 314. Critics were quick to ______ the ambitious but flawed design.
-
-❌ **A. laud** = praise highly  
-❌ **B. admire** = regard with respect  
-✅ **C. deride** = mock; ridicule  
-✅ **D. mock** = ridicule; make fun of  
-❌ **E. praise** = express approval of  
+**305.** Old grievances colored his account with ______.
 
-### 315. The reform plunged the agency into a ______ of resignations and lawsuits.
-
-✅ **A. maelstrom** = a violent whirlpool; turmoil  
-❌ **B. serenity** = calm peacefulness  
-❌ **C. tranquility** = calm peacefulness  
-❌ **D. calm** = peaceful; free from agitation  
-✅ **E. turmoil** = a state of great disturbance  
+> `A` objectivity\
+> `B` fairness\
+> `C` neutrality\
+> `D` prejudice\
+> `E` jaundice
 
-### 316. A bonus was offered to ______ the disgruntled staff.
-
-❌ **A. enrage** = make furious  
-✅ **B. appease** = pacify by giving in to demands  
-❌ **C. inflame** = provoke intense feeling; make worse  
-❌ **D. provoke** = stir up; deliberately anger  
-✅ **E. placate** = calm the anger of; appease  
+**306.** The ______ traffic outside drowned out the lecture.
 
-### 317. Rumors were ______ in the office after the sudden resignation.
-
-❌ **A. absent** = not present  
-✅ **B. rife** = widespread; abundant  
-❌ **C. rare** = uncommon  
-❌ **D. scarce** = in short supply  
-✅ **E. rampant** = spreading unchecked  
+> `A` euphonious\
+> `B` harmonious\
+> `C` discordant\
+> `D` cacophonous\
+> `E` melodious
 
-### 318. The exhibit invited a ______ experience, encouraging visitors to touch.
-
-❌ **A. intangible** = unable to be touched  
-✅ **B. tactile** = relating to the sense of touch  
-❌ **C. abstract** = theoretical; not concrete  
-✅ **D. tangible** = able to be touched; concrete  
-❌ **E. conceptual** = based on ideas, not physical things  
+**307.** Her ______ sleep left her exhausted by morning.
 
-### 319. ______ fumes from the spill forced an evacuation of the block.
-
-❌ **A. wholesome** = promoting health or virtue  
-✅ **B. noxious** = harmful; poisonous  
-❌ **C. benign** = gentle; harmless  
-❌ **D. harmless** = causing no damage  
-✅ **E. toxic** = poisonous  
+> `A` constant\
+> `B` fitful\
+> `C` steady\
+> `D` intermittent\
+> `E` continuous
 
-### 320. Her ______ assessment, though hard to hear, proved exactly what he needed.
-
-❌ **A. evasive** = avoiding directness; elusive  
-✅ **B. frank** = open and honest  
-❌ **C. guarded** = cautious; reserved  
-❌ **D. cagey** = cautiously secretive  
-✅ **E. candid** = honest and direct  
+**308.** The show's ______ of the powerful drew both laughter and lawsuits.
 
-### 321. Her account did not ______ with what the others had reported.
-
-❌ **A. differ** = be unlike; disagree  
-✅ **B. jibe** = be in accord; agree  
-❌ **C. clash** = conflict; be incompatible  
-❌ **D. conflict** = disagreement; clash  
-✅ **E. agree** = be in harmony; consent  
+> `A` lauding\
+> `B` honoring\
+> `C` mocking\
+> `D` praising\
+> `E` lampooning
 
-### 322. Given ______ access to the archives, the historian made startling discoveries.
-
-✅ **A. unfettered** = free from restraint  
-✅ **B. unrestrained** = uncontrolled; free  
-❌ **C. curbed** = restrained; held back  
-❌ **D. restricted** = limited  
-❌ **E. constrained** = restricted; limited  
+**309.** The judge issued a sharp ______ to the lawyer for the outburst.
 
-### 323. The ______ of the cathedral left the visitors speechless.
-
-✅ **A. grandeur** = impressive splendor  
-❌ **B. drabness** = dullness; lack of color  
-❌ **C. meanness** = shabbiness; unkindness  
-✅ **D. majesty** = impressive dignity; grandeur  
-❌ **E. squalor** = filthy, wretched conditions  
+> `A` praise\
+> `B` rebuke\
+> `C` reprimand\
+> `D` commend\
+> `E` laud
 
-### 324. A ______ host, she seemed to know every guest at the party by name.
-
-✅ **A. sociable** = fond of company  
-❌ **B. aloof** = cool and distant  
-✅ **C. gregarious** = sociable; fond of company  
-❌ **D. reclusive** = avoiding the company of others  
-❌ **E. solitary** = alone; preferring to be alone  
+**310.** Rather than prolong the quarrel, she chose to ______ to their demands.
 
-### 325. His ______ telegram conveyed everything in a single line.
-
-✅ **A. laconic** = using very few words  
-❌ **B. wordy** = using too many words  
-❌ **C. prolix** = tediously wordy  
-❌ **D. verbose** = using too many words  
-✅ **E. pithy** = brief but full of meaning  
+> `A` protest\
+> `B` acquiesce\
+> `C` object\
+> `D` resist\
+> `E` assent
 
-### 326. The ______ afternoon drove everyone indoors by noon.
-
-❌ **A. frigid** = extremely cold  
-✅ **B. torrid** = intensely hot  
-❌ **C. cold** = low in temperature; unfriendly  
-✅ **D. scorching** = extremely hot  
-❌ **E. chilly** = uncomfortably cool  
+---
 
-### 327. Caught in a ______, she could see no good option.
-
-✅ **A. quandary** = a state of uncertainty; a dilemma  
-✅ **B. dilemma** = a choice between undesirable options  
-❌ **C. clarity** = clearness; lucidity  
-❌ **D. resolution** = a firm decision; a solution  
-❌ **E. certainty** = the state of being sure  
+## Questions 311-320
 
-### 328. Even as sales declined, the founder stayed remarkably ______ about the company's long-term prospects.
-
-❌ **A. morose** = gloomy and sullen  
-✅ **B. sanguine** = cheerfully optimistic  
-❌ **C. pessimistic** = expecting the worst  
-✅ **D. optimistic** = expecting the best  
-❌ **E. despondent** = in low spirits; hopeless  
+**311.** The report's deliberate ______ hid the true cost from the public.
 
-### 329. The ______ artist could barely afford canvas, let alone a studio of his own.
-
-❌ **A. prosperous** = wealthy; successful  
-✅ **B. impecunious** = having little or no money  
-❌ **C. wealthy** = rich  
-✅ **D. penniless** = having no money  
-❌ **E. affluent** = wealthy  
+> `A` obfuscation\
+> `B` confusion\
+> `C` clarity\
+> `D` candor\
+> `E` transparency
 
-### 330. A ______ ally, he stood by the cause through its darkest days.
-
-✅ **A. steadfast** = firmly loyal and unwavering  
-❌ **B. disloyal** = unfaithful  
-✅ **C. staunch** = firmly loyal  
-❌ **D. fickle** = changeable in loyalty  
-❌ **E. wavering** = indecisive; unsteady  
+**312.** The lender was charged with ______ for the crippling interest rates.
 
-### 331. His ______ assurance blinded him to the obvious risks.
-
-❌ **A. modest** = humble; unassuming  
-❌ **B. humble** = modest; not proud  
-✅ **C. overconfident** = excessively sure of oneself  
-❌ **D. diffident** = shy; lacking self-confidence  
-✅ **E. hubristic** = excessively proud; overconfident  
+> `A` charity\
+> `B` generosity\
+> `C` usury\
+> `D` fairness\
+> `E` exploitation
 
-### 332. His ______ plan to end traffic with bicycles charmed reporters but never worked.
-
-✅ **A. idealistic** = pursuing noble but impractical ideals  
-❌ **B. pragmatic** = dealing with things realistically  
-✅ **C. quixotic** = idealistic to an impractical degree  
-❌ **D. practical** = sensible; realistic  
-❌ **E. realistic** = practical; true to life  
+**313.** The team's ______ defeat ended their championship hopes for the year.
 
-### 333. The ______ old apples were fit only for the compost.
-
-✅ **A. shriveled** = wrinkled and shrunken  
-❌ **B. fresh** = new; not stale  
-✅ **C. wizened** = shriveled and wrinkled with age  
-❌ **D. juicy** = full of juice  
-❌ **E. plump** = pleasantly fat; rounded  
+> `A` humiliating\
+> `B` glorious\
+> `C` triumphant\
+> `D` ignominious\
+> `E` honorable
 
-### 334. Reviewers found little to ______ at in the polished final draft.
-
-✅ **A. cavil** = raise trivial objections  
-❌ **B. praise** = express approval of  
-✅ **C. quibble** = argue over trivial points  
-❌ **D. commend** = praise formally  
-❌ **E. approve** = regard favorably  
+**314.** Critics were quick to ______ the ambitious but flawed design.
 
-### 335. The court moved to ______ the indictment on procedural grounds.
-
-❌ **A. uphold** = support; maintain  
-✅ **B. squelch** = crush; suppress  
-❌ **C. affirm** = state as true; confirm  
-✅ **D. quash** = put down; suppress; annul  
-❌ **E. sustain** = support; keep going; uphold  
+> `A` laud\
+> `B` admire\
+> `C` deride\
+> `D` mock\
+> `E` praise
 
-### 336. The ______ expedition met one disaster after another.
-
-✅ **A. ill-fated** = destined for misfortune  
-❌ **B. fortunate** = lucky  
-✅ **C. hapless** = unlucky  
-❌ **D. blessed** = fortunate; favored  
-❌ **E. charmed** = protected as if by magic; lucky  
+**315.** The reform plunged the agency into a ______ of resignations and lawsuits.
 
-### 337. The exhibit ______ d ancient relics with modern art to striking effect.
-
-✅ **A. contrast** = place side by side to show difference  
-❌ **B. isolate** = set apart from others  
-✅ **C. juxtapose** = place side by side for contrast  
-❌ **D. separate** = set apart  
-❌ **E. divide** = separate into parts  
+> `A` maelstrom\
+> `B` serenity\
+> `C` tranquility\
+> `D` calm\
+> `E` turmoil
 
-### 338. His ______ praise sounded more like mockery than tribute.
-
-✅ **A. fulsome** = excessive to the point of insincerity  
-✅ **B. excessive** = more than is necessary  
-❌ **C. sparing** = using little; frugal  
-❌ **D. measured** = careful and deliberate  
-❌ **E. restrained** = controlled; held back  
+**316.** A bonus was offered to ______ the disgruntled staff.
 
-### 339. His ______ wrecked every chance at a fair settlement.
-
-❌ **A. compliance** = the act of obeying  
-✅ **B. stubbornness** = refusal to change one's mind  
-❌ **C. pliancy** = flexibility; readiness to yield  
-✅ **D. obdurateness** = stubborn refusal to yield  
-❌ **E. flexibility** = willingness to change; pliability  
+> `A` enrage\
+> `B` appease\
+> `C` inflame\
+> `D` provoke\
+> `E` placate
 
-### 340. The salesman's ______ flattery made the customers more suspicious, not less.
-
-✅ **A. unctuous** = excessively smooth and flattering  
-❌ **B. earnest** = sincerely serious  
-❌ **C. genuine** = authentic; sincere  
-❌ **D. sincere** = genuine; honest in feeling  
-✅ **E. oily** = unpleasantly smooth and flattering  
+**317.** Rumors were ______ in the office after the sudden resignation.
 
-### 341. The ______ regulations baffled even seasoned accountants.
-
-❌ **A. straightforward** = simple; direct  
-✅ **B. convoluted** = extremely intricate; twisted  
-✅ **C. labyrinthine** = maze-like; intricately complicated  
-❌ **D. simple** = easy; uncomplicated  
-❌ **E. clear** = transparent; easy to understand  
+> `A` absent\
+> `B` rife\
+> `C` rare\
+> `D` scarce\
+> `E` rampant
 
-### 342. The bill was left to ______ in committee for two full sessions.
-
-❌ **A. prosper** = thrive; succeed  
-❌ **B. thrive** = grow vigorously; prosper  
-❌ **C. flourish** = thrive; prosper  
-✅ **D. wither** = shrivel; decline  
-✅ **E. languish** = grow weak; be neglected  
+**318.** The exhibit invited a ______ experience, encouraging visitors to touch.
 
-### 343. Rivals tried to ______ her reputation with baseless rumors.
-
-❌ **A. commend** = praise formally  
-✅ **B. slander** = make false damaging statements about  
-❌ **C. praise** = express approval of  
-❌ **D. extol** = praise enthusiastically  
-✅ **E. malign** = speak harmful untruths about  
+> `A` intangible\
+> `B` tactile\
+> `C` abstract\
+> `D` tangible\
+> `E` conceptual
 
-### 344. The campaign sought to ______ an opponent it could not defeat on the issues.
-
-✅ **A. malign** = speak harmful untruths about  
-✅ **B. vilify** = speak abusively about; defame  
-❌ **C. laud** = praise highly  
-❌ **D. praise** = express approval of  
-❌ **E. glorify** = praise highly; exalt  
+**319.** ______ fumes from the spill forced an evacuation of the block.
 
-### 345. The hall's ______ astonished guests who had expected something modest.
-
-❌ **A. austerity** = severe plainness; strictness  
-❌ **B. poverty** = the state of being poor  
-❌ **C. frugality** = thrift; economy  
-✅ **D. opulence** = great wealth and luxury  
-✅ **E. luxury** = great comfort and extravagance  
+> `A` wholesome\
+> `B` noxious\
+> `C` benign\
+> `D` harmless\
+> `E` toxic
 
-### 346. The ______ attack drew condemnation from every quarter.
-
-✅ **A. unprovoked** = without provocation or cause  
-❌ **B. warranted** = justified  
-✅ **C. wanton** = deliberate and unprovoked; reckless  
-❌ **D. provoked** = deliberately angered; incited  
-❌ **E. justified** = having a good reason; warranted  
+**320.** Her ______ assessment, though hard to hear, proved exactly what he needed.
 
-### 347. The ______ pupil refused every instruction the teacher gave.
-
-✅ **A. defiant** = boldly resistant to authority  
-✅ **B. recalcitrant** = stubbornly resistant to authority  
-❌ **C. obedient** = complying with orders  
-❌ **D. compliant** = willing to obey  
-❌ **E. docile** = easily taught or managed; submissive  
+> `A` evasive\
+> `B` frank\
+> `C` guarded\
+> `D` cagey\
+> `E` candid
 
-### 348. He managed to ______ a fortune in just a few reckless years.
-
-❌ **A. save** = keep for future use; rescue  
-✅ **B. fritter** = waste little by little  
-❌ **C. conserve** = protect from waste; save  
-❌ **D. hoard** = accumulate and hide away  
-✅ **E. squander** = waste recklessly  
+---
 
-### 349. The summit offered a view so vast and so still that travelers called it simply ______.
-
-✅ **A. indescribable** = beyond description  
-❌ **B. ordinary** = commonplace; not special  
-✅ **C. ineffable** = too great to be expressed in words  
-❌ **D. banal** = boring from overuse; unoriginal  
-❌ **E. commonplace** = ordinary; unremarkable  
+## Questions 321-330
 
-### 350. The ______ old farmer chased off anyone who set foot on his land.
-
-❌ **A. affable** = friendly and easy to talk to  
-✅ **B. cantankerous** = bad-tempered and argumentative  
-✅ **C. ornery** = bad-tempered and combative  
-❌ **D. sweet** = pleasant-tasting; agreeable  
-❌ **E. genial** = warm and friendly  
+**321.** Her account did not ______ with what the others had reported.
 
-### 351. His ______ appearance hinted at a sleepless, frantic night.
-
-✅ **A. unkempt** = untidy; messy  
-✅ **B. disheveled** = untidy; rumpled  
-❌ **C. neat** = tidy; orderly  
-❌ **D. tidy** = neat and orderly  
-❌ **E. groomed** = neat and well cared for  
+> `A` differ\
+> `B` jibe\
+> `C` clash\
+> `D` conflict\
+> `E` agree
 
-### 352. A ______ mood spread through the hall as the music began.
-
-✅ **A. jocund** = cheerful; merry  
-✅ **B. jolly** = happy and cheerful  
-❌ **C. somber** = dark; gloomily serious  
-❌ **D. gloomy** = dark; dismal; dejected  
-❌ **E. dour** = gloomy and stern  
+**322.** Given ______ access to the archives, the historian made startling discoveries.
 
-### 353. A careful plan can ______ the need for costly repairs later.
-
-❌ **A. compel** = force; drive  
-❌ **B. necessitate** = make necessary  
-✅ **C. preclude** = prevent; make impossible  
-✅ **D. obviate** = remove (a need); prevent  
-❌ **E. require** = need; demand  
+> `A` unfettered\
+> `B` unrestrained\
+> `C` curbed\
+> `D` restricted\
+> `E` constrained
 
-### 354. The textbook was prized for the ______ of its explanations.
-
-❌ **A. murkiness** = cloudiness; obscurity  
-✅ **B. clarity** = clearness; lucidity  
-❌ **C. obscurity** = the state of being unknown or unclear  
-❌ **D. vagueness** = lack of clarity  
-✅ **E. perspicuity** = clearness of expression  
+**323.** The ______ of the cathedral left the visitors speechless.
 
-### 355. Her position proved ______ even under aggressive cross-examination.
-
-❌ **A. untenable** = impossible to defend  
-❌ **B. shaky** = unstable; weak  
-✅ **C. defensible** = able to be justified  
-❌ **D. indefensible** = impossible to justify  
-✅ **E. tenable** = able to be defended (of a position)  
+> `A` grandeur\
+> `B` drabness\
+> `C` meanness\
+> `D` majesty\
+> `E` squalor
 
-### 356. The script relied on ______ phrases that audiences had heard a thousand times.
-
-❌ **A. original** = new; not copied  
-✅ **B. trite** = worn out by overuse; stale  
-❌ **C. novel** = new and original  
-❌ **D. fresh** = new; not stale  
-✅ **E. hackneyed** = overused; unoriginal  
+**324.** A ______ host, she seemed to know every guest at the party by name.
 
-### 357. He was forced to ______ the beliefs he had defended for years.
-
-❌ **A. affirm** = state as true; confirm  
-❌ **B. embrace** = accept willingly; hug  
-✅ **C. abjure** = formally renounce (a belief)  
-❌ **D. uphold** = support; maintain  
-✅ **E. renounce** = formally give up  
+> `A` sociable\
+> `B` aloof\
+> `C` gregarious\
+> `D` reclusive\
+> `E` solitary
 
-### 358. The motto's ______ made it easy to remember and repeat.
-
-❌ **A. wordiness** = use of too many words  
-❌ **B. verbosity** = wordiness  
-❌ **C. longwindedness** = tedious wordiness  
-✅ **D. pithiness** = concise expressiveness  
-✅ **E. brevity** = shortness of expression; conciseness  
+**325.** His ______ telegram conveyed everything in a single line.
 
-### 359. Her ______ thanks went on so long that the recipient grew embarrassed.
-
-❌ **A. restrained** = controlled; held back  
-✅ **B. effusive** = expressing feelings unrestrainedly  
-❌ **C. reserved** = slow to reveal emotion; restrained  
-✅ **D. gushing** = expressing exaggerated enthusiasm  
-❌ **E. terse** = brief and to the point  
+> `A` laconic\
+> `B` wordy\
+> `C` prolix\
+> `D` verbose\
+> `E` pithy
 
-### 360. The minister's ______ speech, swollen with grand abstractions, said remarkably little.
-
-✅ **A. bombastic** = high-sounding but with little meaning  
-✅ **B. turgid** = swollen; pompously overblown (of language)  
-❌ **C. concise** = brief and clear  
-❌ **D. succinct** = briefly and clearly expressed  
-❌ **E. spare** = plain; without excess  
+**326.** The ______ afternoon drove everyone indoors by noon.
 
-### 361. A welcome ______ broke the tension of the long negotiation.
-
-✅ **A. jocularity** = joking humor; merriment  
-❌ **B. gravity** = seriousness; solemnity  
-❌ **C. solemnity** = deep seriousness  
-❌ **D. gloom** = darkness; deep sadness  
-✅ **E. mirth** = amusement and laughter  
+> `A` frigid\
+> `B` torrid\
+> `C` cold\
+> `D` scorching\
+> `E` chilly
 
-### 362. Investigators slowly uncovered the ______ scheme to defraud elderly pensioners.
-
-❌ **A. benevolent** = kind and well-meaning  
-✅ **B. nefarious** = wicked; villainous  
-✅ **C. villainous** = wicked; evil  
-❌ **D. honorable** = deserving respect; upright  
-❌ **E. virtuous** = morally excellent  
+**327.** Caught in a ______, she could see no good option.
 
-### 363. She regarded the shortcut with open ______, calling it lazy work.
-
-✅ **A. disdain** = look down upon; scorn  
-✅ **B. contempt** = the feeling that something is worthless  
-❌ **C. esteem** = respect and admiration  
-❌ **D. admiration** = respect and warm approval  
-❌ **E. respect** = admire; treat with regard  
+> `A` quandary\
+> `B` dilemma\
+> `C` clarity\
+> `D` resolution\
+> `E` certainty
 
-### 364. No amount of ______ could change her firm decision.
-
-✅ **A. flattery** = excessive, insincere praise  
-❌ **B. rebuke** = scold sharply  
-✅ **C. blandishment** = flattering talk meant to persuade  
-❌ **D. criticism** = expression of disapproval  
-❌ **E. insult** = speak to with disrespect  
+**328.** Even as sales declined, the founder stayed remarkably ______ about the company's long-term prospects.
 
-### 365. The verdict subjected him to years of public ______.
-
-❌ **A. honor** = high respect; to respect  
-✅ **B. vilification** = abusively defamatory speech  
-✅ **C. obloquy** = strong public condemnation; disgrace  
-❌ **D. praise** = express approval of  
-❌ **E. acclaim** = enthusiastic public praise  
+> `A` morose\
+> `B` sanguine\
+> `C` pessimistic\
+> `D` optimistic\
+> `E` despondent
 
-### 366. The objection was ______, easily brushed aside.
-
-✅ **A. nugatory** = of no value; trifling  
-❌ **B. significant** = important; meaningful  
-❌ **C. crucial** = of decisive importance  
-✅ **D. trifling** = trivial; of little value  
-❌ **E. weighty** = important; serious  
+**329.** The ______ artist could barely afford canvas, let alone a studio of his own.
 
-### 367. The ______ of his research yielded little of value.
-
-✅ **A. desultoriness** = lack of plan or purpose  
-❌ **B. purpose** = an intended aim  
-✅ **C. aimlessness** = lack of purpose or direction  
-❌ **D. method** = an orderly procedure  
-❌ **E. focus** = concentrate; a center of attention  
+> `A` prosperous\
+> `B` impecunious\
+> `C` wealthy\
+> `D` penniless\
+> `E` affluent
 
-### 368. The film earned ______ from critics who had panned the director's earlier work.
-
-❌ **A. censure** = express severe disapproval of  
-✅ **B. praise** = express approval of  
-❌ **C. criticism** = expression of disapproval  
-✅ **D. kudos** = praise; acclaim  
-❌ **E. blame** = hold responsible; censure  
+**330.** A ______ ally, he stood by the cause through its darkest days.
 
-### 369. His ______ spending soon exhausted the family fortune.
-
-❌ **A. measured** = careful and deliberate  
-✅ **B. reckless** = acting without regard for consequences  
-✅ **C. wanton** = deliberate and unprovoked; reckless  
-❌ **D. careful** = attentive to detail; cautious  
-❌ **E. prudent** = wisely cautious  
+> `A` steadfast\
+> `B` disloyal\
+> `C` staunch\
+> `D` fickle\
+> `E` wavering
 
-### 370. An ______ accomplice, he had no idea the funds were stolen.
-
-✅ **A. unknowing** = unaware  
-❌ **B. conscious** = aware; deliberate  
-❌ **C. knowing** = aware; deliberate  
-❌ **D. deliberate** = done intentionally; careful  
-✅ **E. unwitting** = unaware; unintentional  
+---
 
-### 371. The old play featured a charming ______ who tricked everyone in sight.
-
-✅ **A. knave** = a dishonest man; a rogue  
-✅ **B. rogue** = a dishonest but often likable scoundrel  
-❌ **C. paragon** = a model of excellence  
-❌ **D. hero** = one admired for courage  
-❌ **E. saint** = a person of great virtue  
+## Questions 331-340
 
-### 372. The ______ refused to entertain any view but his own.
-
-❌ **A. moderate** = one holding middle-ground views; average  
-❌ **B. pragmatist** = one who takes a practical approach  
-✅ **C. zealot** = a fanatical partisan  
-✅ **D. fanatic** = one with extreme, uncritical zeal  
-❌ **E. skeptic** = one inclined to doubt  
+**331.** His ______ assurance blinded him to the obvious risks.
 
-### 373. ______ by the setbacks, the team tried yet another approach.
-
-✅ **A. resolute** = admirably determined  
-❌ **B. cowed** = intimidated into submission  
-✅ **C. undaunted** = not discouraged by difficulty  
-❌ **D. discouraged** = having lost confidence or hope  
-❌ **E. deterred** = discouraged from acting  
+> `A` modest\
+> `B` humble\
+> `C` overconfident\
+> `D` diffident\
+> `E` hubristic
 
-### 374. She grew ______ whenever the old song came on the radio.
-
-❌ **A. detached** = emotionally uninvolved; separate  
-❌ **B. indifferent** = showing no interest or concern  
-✅ **C. wistful** = full of yearning tinged with sadness  
-✅ **D. nostalgic** = longing wistfully for the past  
-❌ **E. unmoved** = not affected emotionally  
+**332.** His ______ plan to end traffic with bicycles charmed reporters but never worked.
 
-### 375. The ______ of the prose made the dense subject a pleasure.
-
-❌ **A. murkiness** = cloudiness; obscurity  
-✅ **B. limpidity** = perfect clarity  
-❌ **C. opacity** = the quality of being hard to see through or understand  
-✅ **D. clarity** = clearness; lucidity  
-❌ **E. obscurity** = the state of being unknown or unclear  
+> `A` idealistic\
+> `B` pragmatic\
+> `C` quixotic\
+> `D` practical\
+> `E` realistic
 
-### 376. Her lifelong ______ to crowds made the bustling festival an ordeal rather than a pleasure.
-
-❌ **A. affinity** = a natural liking  
-❌ **B. fondness** = affection; liking  
-✅ **C. aversion** = a strong dislike  
-❌ **D. predilection** = a preference; a liking  
-✅ **E. antipathy** = a deep dislike  
+**333.** The ______ old apples were fit only for the compost.
 
-### 377. The ______ inspector waved through any shipment for the right price.
-
-✅ **A. corrupt** = willing to act dishonestly for gain  
-❌ **B. incorruptible** = incapable of being bribed  
-❌ **C. honest** = truthful  
-✅ **D. venal** = open to bribery; corruptible  
-❌ **E. principled** = acting according to morals  
+> `A` shriveled\
+> `B` fresh\
+> `C` wizened\
+> `D` juicy\
+> `E` plump
 
-### 378. The ______ clerk insisted on inspecting forms no one had asked him to check.
-
-❌ **A. uninvolved** = not taking part  
-❌ **B. aloof** = cool and distant  
-❌ **C. detached** = emotionally uninvolved; separate  
-✅ **D. meddlesome** = prone to interfering  
-✅ **E. officious** = intrusively assertive in offering help  
+**334.** Reviewers found little to ______ at in the polished final draft.
 
-### 379. His ______ attempt to mediate only widened the rift.
-
-✅ **A. maladroit** = clumsy; inept  
-❌ **B. skilled** = having ability and expertise  
-❌ **C. adroit** = skillful; clever  
-✅ **D. inept** = clumsy; incompetent  
-❌ **E. deft** = skillful; nimble  
+> `A` cavil\
+> `B` praise\
+> `C` quibble\
+> `D` commend\
+> `E` approve
 
-### 380. His ______ handling of the apology only deepened the offense.
-
-✅ **A. clumsy** = awkward; lacking coordination  
-❌ **B. skillful** = performed with expertise  
-❌ **C. deft** = skillful; nimble  
-✅ **D. maladroit** = clumsy; inept  
-❌ **E. adept** = highly skilled  
+**335.** The court moved to ______ the indictment on procedural grounds.
 
-### 381. A ______ sense of unease hung over the office after the layoffs.
-
-❌ **A. rare** = uncommon  
-✅ **B. prevalent** = widespread  
-❌ **C. isolated** = occurring alone; set apart  
-✅ **D. pervasive** = spreading throughout  
-❌ **E. scarce** = in short supply  
+> `A` uphold\
+> `B` squelch\
+> `C` affirm\
+> `D` quash\
+> `E` sustain
 
-### 382. The ______ banners called for war against the neighbor.
-
-❌ **A. tolerant** = accepting of differing views  
-❌ **B. pacifist** = one who opposes war  
-❌ **C. cosmopolitan** = worldly; at home in many cultures  
-✅ **D. jingoistic** = aggressively nationalistic  
-✅ **E. chauvinistic** = aggressively and excessively patriotic  
+**336.** The ______ expedition met one disaster after another.
 
-### 383. Nothing seemed to ______ his thirst for new knowledge.
-
-❌ **A. kindle** = ignite; arouse  
-❌ **B. stoke** = feed (a fire); intensify  
-✅ **C. quench** = satisfy (thirst); extinguish  
-❌ **D. arouse** = stir up; awaken  
-✅ **E. slake** = satisfy (thirst)  
+> `A` ill-fated\
+> `B` fortunate\
+> `C` hapless\
+> `D` blessed\
+> `E` charmed
 
-### 384. There was no ______ the strength of the evidence.
-
-❌ **A. confirming** = establishing as true  
-❌ **B. supporting** = assisting; confirming  
-✅ **C. contradicting** = asserting the opposite  
-✅ **D. gainsaying** = denying; contradicting  
-❌ **E. affirming** = confirming; supporting  
+**337.** The exhibit ______ d ancient relics with modern art to striking effect.
 
-### 385. The experience left an ______ mark on everyone who lived through it.
-
-❌ **A. fleeting** = passing quickly  
-✅ **B. permanent** = lasting indefinitely  
-✅ **C. indelible** = impossible to erase  
-❌ **D. temporary** = lasting only a short time  
-❌ **E. erasable** = capable of being erased  
+> `A` contrast\
+> `B` isolate\
+> `C` juxtapose\
+> `D` separate\
+> `E` divide
 
-### 386. He tended to ______ on about the past until listeners drifted off.
-
-❌ **A. sharpen** = make keener  
-❌ **B. concentrate** = focus attention  
-✅ **C. maunder** = talk in a rambling way  
-✅ **D. ramble** = talk or wander aimlessly  
-❌ **E. focus** = concentrate; a center of attention  
+**338.** His ______ praise sounded more like mockery than tribute.
 
-### 387. The ______ firm rejected every idea that smacked of novelty.
-
-✅ **A. hidebound** = unwilling to change; narrowly rigid  
-❌ **B. liberal** = open to new ideas; generous  
-❌ **C. progressive** = favoring reform and new ideas  
-❌ **D. innovative** = introducing new ideas  
-✅ **E. conventional** = following accepted customs  
+> `A` fulsome\
+> `B` excessive\
+> `C` sparing\
+> `D` measured\
+> `E` restrained
 
-### 388. His ______ bow signaled his place in the strict hierarchy.
-
-❌ **A. insolent** = rudely disrespectful  
-❌ **B. rebellious** = resisting authority  
-❌ **C. defiant** = boldly resistant to authority  
-✅ **D. obeisant** = showing deferential respect  
-✅ **E. deferential** = respectfully submissive  
-
-### 389. Her ______ personality made her the center of any gathering.
-
-❌ **A. listless** = lacking energy or enthusiasm  
-❌ **B. dull** = boring; not sharp; not bright  
-✅ **C. vivacious** = attractively lively  
-✅ **D. lively** = full of energy  
-❌ **E. lifeless** = without life or energy  
-
-### 390. He sat ______ in the corner, untouched by the celebration.
-
-❌ **A. jovial** = cheerful and good-humored  
-✅ **B. glum** = gloomy; sullen  
-✅ **C. morose** = gloomy and sullen  
-❌ **D. cheerful** = noticeably happy  
-❌ **E. merry** = cheerful and lively  
-
-### 391. A good translator captures the ______ s a literal version would lose.
-
-❌ **A. bluntness** = dullness; lack of sharpness  
-❌ **B. crudeness** = roughness; lack of refinement  
-❌ **C. obviousness** = the quality of being easily seen  
-✅ **D. subtlety** = a fine, delicate distinction  
-✅ **E. nuance** = a subtle shade of meaning  
-
-### 392. The beauty of the cherry blossoms is famously ______, lasting little more than a week before the petals fall.
-
-❌ **A. abiding** = lasting; enduring  
-❌ **B. perennial** = lasting indefinitely; recurring  
-✅ **C. ephemeral** = lasting a very short time  
-✅ **D. fleeting** = passing quickly  
-❌ **E. enduring** = lasting  
-
-### 393. Her ______ commands left no doubt who ran the household.
-
-✅ **A. imperious** = arrogantly commanding  
-❌ **B. meek** = quietly submissive  
-❌ **C. deferential** = respectfully submissive  
-✅ **D. domineering** = asserting one's will overbearingly  
-❌ **E. submissive** = obediently yielding  
-
-### 394. Small delays began to ______ the otherwise patient crew.
-
-✅ **A. annoy** = irritate mildly  
-✅ **B. nettle** = irritate; annoy  
-❌ **C. calm** = peaceful; free from agitation  
-❌ **D. comfort** = ease distress; console  
-❌ **E. soothe** = gently calm  
-
-### 395. A minor ______ over seating delayed the ceremony.
-
-✅ **A. commotion** = a noisy disturbance  
-✅ **B. kerfuffle** = a fuss; a commotion  
-❌ **C. order** = an organized state  
-❌ **D. quiet** = free of noise; calm  
-❌ **E. calm** = peaceful; free from agitation  
-
-### 396. Her ______ father rarely spoke more than a few words at dinner.
-
-❌ **A. loquacious** = very talkative  
-❌ **B. garrulous** = excessively talkative  
-✅ **C. reticent** = reluctant to speak; reserved  
-❌ **D. voluble** = speaking fluently and at length  
-✅ **E. taciturn** = habitually saying little  
-
-### 397. Her ______ of gratitude embarrassed the modest volunteer.
-
-✅ **A. effusion** = an unrestrained outpouring  
-❌ **B. reserve** = self-restraint in expression  
-❌ **C. restraint** = self-control; holding back  
-❌ **D. reticence** = reluctance to speak  
-✅ **E. outpouring** = an overflowing expression of emotion  
-
-### 398. He pitied what he saw as a ______ age of superstition.
-
-❌ **A. cultured** = refined; well-educated  
-❌ **B. learned** = having much knowledge; scholarly  
-✅ **C. unenlightened** = lacking knowledge or insight  
-❌ **D. enlightened** = well-informed; free of ignorance  
-✅ **E. benighted** = in a state of ignorance  
-
-### 399. The columnist would ______ against every policy she disliked.
-
-❌ **A. praise** = express approval of  
-✅ **B. fulminate** = protest loudly and bitterly  
-❌ **C. commend** = praise formally  
-❌ **D. endorse** = publicly approve of  
-✅ **E. rail** = complain or protest bitterly  
-
-### 400. The ______ creditor refused to extend the deadline by a single day.
-
-✅ **A. obdurate** = stubbornly unyielding  
-❌ **B. accommodating** = eager to please; obliging  
-✅ **C. unyielding** = refusing to give way  
-❌ **D. lenient** = merciful; not strict  
-❌ **E. flexible** = able to bend or adapt  
+**339.** His ______ wrecked every chance at a fair settlement.
+
+> `A` compliance\
+> `B` stubbornness\
+> `C` pliancy\
+> `D` obdurateness\
+> `E` flexibility
+
+**340.** The salesman's ______ flattery made the customers more suspicious, not less.
+
+> `A` unctuous\
+> `B` earnest\
+> `C` genuine\
+> `D` sincere\
+> `E` oily
+
+---
+
+## Questions 341-350
+
+**341.** The ______ regulations baffled even seasoned accountants.
+
+> `A` straightforward\
+> `B` convoluted\
+> `C` labyrinthine\
+> `D` simple\
+> `E` clear
+
+**342.** The bill was left to ______ in committee for two full sessions.
+
+> `A` prosper\
+> `B` thrive\
+> `C` flourish\
+> `D` wither\
+> `E` languish
+
+**343.** Rivals tried to ______ her reputation with baseless rumors.
+
+> `A` commend\
+> `B` slander\
+> `C` praise\
+> `D` extol\
+> `E` malign
+
+**344.** The campaign sought to ______ an opponent it could not defeat on the issues.
+
+> `A` malign\
+> `B` vilify\
+> `C` laud\
+> `D` praise\
+> `E` glorify
+
+**345.** The hall's ______ astonished guests who had expected something modest.
+
+> `A` austerity\
+> `B` poverty\
+> `C` frugality\
+> `D` opulence\
+> `E` luxury
+
+**346.** The ______ attack drew condemnation from every quarter.
+
+> `A` unprovoked\
+> `B` warranted\
+> `C` wanton\
+> `D` provoked\
+> `E` justified
+
+**347.** The ______ pupil refused every instruction the teacher gave.
+
+> `A` defiant\
+> `B` recalcitrant\
+> `C` obedient\
+> `D` compliant\
+> `E` docile
+
+**348.** He managed to ______ a fortune in just a few reckless years.
+
+> `A` save\
+> `B` fritter\
+> `C` conserve\
+> `D` hoard\
+> `E` squander
+
+**349.** The summit offered a view so vast and so still that travelers called it simply ______.
+
+> `A` indescribable\
+> `B` ordinary\
+> `C` ineffable\
+> `D` banal\
+> `E` commonplace
+
+**350.** The ______ old farmer chased off anyone who set foot on his land.
+
+> `A` affable\
+> `B` cantankerous\
+> `C` ornery\
+> `D` sweet\
+> `E` genial
+
+---
+
+## Questions 351-360
+
+**351.** His ______ appearance hinted at a sleepless, frantic night.
+
+> `A` unkempt\
+> `B` disheveled\
+> `C` neat\
+> `D` tidy\
+> `E` groomed
+
+**352.** A ______ mood spread through the hall as the music began.
+
+> `A` jocund\
+> `B` jolly\
+> `C` somber\
+> `D` gloomy\
+> `E` dour
+
+**353.** A careful plan can ______ the need for costly repairs later.
+
+> `A` compel\
+> `B` necessitate\
+> `C` preclude\
+> `D` obviate\
+> `E` require
+
+**354.** The textbook was prized for the ______ of its explanations.
+
+> `A` murkiness\
+> `B` clarity\
+> `C` obscurity\
+> `D` vagueness\
+> `E` perspicuity
+
+**355.** Her position proved ______ even under aggressive cross-examination.
+
+> `A` untenable\
+> `B` shaky\
+> `C` defensible\
+> `D` indefensible\
+> `E` tenable
+
+**356.** The script relied on ______ phrases that audiences had heard a thousand times.
+
+> `A` original\
+> `B` trite\
+> `C` novel\
+> `D` fresh\
+> `E` hackneyed
+
+**357.** He was forced to ______ the beliefs he had defended for years.
+
+> `A` affirm\
+> `B` embrace\
+> `C` abjure\
+> `D` uphold\
+> `E` renounce
+
+**358.** The motto's ______ made it easy to remember and repeat.
+
+> `A` wordiness\
+> `B` verbosity\
+> `C` longwindedness\
+> `D` pithiness\
+> `E` brevity
+
+**359.** Her ______ thanks went on so long that the recipient grew embarrassed.
+
+> `A` restrained\
+> `B` effusive\
+> `C` reserved\
+> `D` gushing\
+> `E` terse
+
+**360.** The minister's ______ speech, swollen with grand abstractions, said remarkably little.
+
+> `A` bombastic\
+> `B` turgid\
+> `C` concise\
+> `D` succinct\
+> `E` spare
+
+---
+
+## Questions 361-370
+
+**361.** A welcome ______ broke the tension of the long negotiation.
+
+> `A` jocularity\
+> `B` gravity\
+> `C` solemnity\
+> `D` gloom\
+> `E` mirth
+
+**362.** Investigators slowly uncovered the ______ scheme to defraud elderly pensioners.
+
+> `A` benevolent\
+> `B` nefarious\
+> `C` villainous\
+> `D` honorable\
+> `E` virtuous
+
+**363.** She regarded the shortcut with open ______, calling it lazy work.
+
+> `A` disdain\
+> `B` contempt\
+> `C` esteem\
+> `D` admiration\
+> `E` respect
+
+**364.** No amount of ______ could change her firm decision.
+
+> `A` flattery\
+> `B` rebuke\
+> `C` blandishment\
+> `D` criticism\
+> `E` insult
+
+**365.** The verdict subjected him to years of public ______.
+
+> `A` honor\
+> `B` vilification\
+> `C` obloquy\
+> `D` praise\
+> `E` acclaim
+
+**366.** The objection was ______, easily brushed aside.
+
+> `A` nugatory\
+> `B` significant\
+> `C` crucial\
+> `D` trifling\
+> `E` weighty
+
+**367.** The ______ of his research yielded little of value.
+
+> `A` desultoriness\
+> `B` purpose\
+> `C` aimlessness\
+> `D` method\
+> `E` focus
+
+**368.** The film earned ______ from critics who had panned the director's earlier work.
+
+> `A` censure\
+> `B` praise\
+> `C` criticism\
+> `D` kudos\
+> `E` blame
+
+**369.** His ______ spending soon exhausted the family fortune.
+
+> `A` measured\
+> `B` reckless\
+> `C` wanton\
+> `D` careful\
+> `E` prudent
+
+**370.** An ______ accomplice, he had no idea the funds were stolen.
+
+> `A` unknowing\
+> `B` conscious\
+> `C` knowing\
+> `D` deliberate\
+> `E` unwitting
+
+---
+
+## Questions 371-380
+
+**371.** The old play featured a charming ______ who tricked everyone in sight.
+
+> `A` knave\
+> `B` rogue\
+> `C` paragon\
+> `D` hero\
+> `E` saint
+
+**372.** The ______ refused to entertain any view but his own.
+
+> `A` moderate\
+> `B` pragmatist\
+> `C` zealot\
+> `D` fanatic\
+> `E` skeptic
+
+**373.** ______ by the setbacks, the team tried yet another approach.
+
+> `A` resolute\
+> `B` cowed\
+> `C` undaunted\
+> `D` discouraged\
+> `E` deterred
+
+**374.** She grew ______ whenever the old song came on the radio.
+
+> `A` detached\
+> `B` indifferent\
+> `C` wistful\
+> `D` nostalgic\
+> `E` unmoved
+
+**375.** The ______ of the prose made the dense subject a pleasure.
+
+> `A` murkiness\
+> `B` limpidity\
+> `C` opacity\
+> `D` clarity\
+> `E` obscurity
+
+**376.** Her lifelong ______ to crowds made the bustling festival an ordeal rather than a pleasure.
+
+> `A` affinity\
+> `B` fondness\
+> `C` aversion\
+> `D` predilection\
+> `E` antipathy
+
+**377.** The ______ inspector waved through any shipment for the right price.
+
+> `A` corrupt\
+> `B` incorruptible\
+> `C` honest\
+> `D` venal\
+> `E` principled
+
+**378.** The ______ clerk insisted on inspecting forms no one had asked him to check.
+
+> `A` uninvolved\
+> `B` aloof\
+> `C` detached\
+> `D` meddlesome\
+> `E` officious
+
+**379.** His ______ attempt to mediate only widened the rift.
+
+> `A` maladroit\
+> `B` skilled\
+> `C` adroit\
+> `D` inept\
+> `E` deft
+
+**380.** His ______ handling of the apology only deepened the offense.
+
+> `A` clumsy\
+> `B` skillful\
+> `C` deft\
+> `D` maladroit\
+> `E` adept
+
+---
+
+## Questions 381-390
+
+**381.** A ______ sense of unease hung over the office after the layoffs.
+
+> `A` rare\
+> `B` prevalent\
+> `C` isolated\
+> `D` pervasive\
+> `E` scarce
+
+**382.** The ______ banners called for war against the neighbor.
+
+> `A` tolerant\
+> `B` pacifist\
+> `C` cosmopolitan\
+> `D` jingoistic\
+> `E` chauvinistic
+
+**383.** Nothing seemed to ______ his thirst for new knowledge.
+
+> `A` kindle\
+> `B` stoke\
+> `C` quench\
+> `D` arouse\
+> `E` slake
+
+**384.** There was no ______ the strength of the evidence.
+
+> `A` confirming\
+> `B` supporting\
+> `C` contradicting\
+> `D` gainsaying\
+> `E` affirming
+
+**385.** The experience left an ______ mark on everyone who lived through it.
+
+> `A` fleeting\
+> `B` permanent\
+> `C` indelible\
+> `D` temporary\
+> `E` erasable
+
+**386.** He tended to ______ on about the past until listeners drifted off.
+
+> `A` sharpen\
+> `B` concentrate\
+> `C` maunder\
+> `D` ramble\
+> `E` focus
+
+**387.** The ______ firm rejected every idea that smacked of novelty.
+
+> `A` hidebound\
+> `B` liberal\
+> `C` progressive\
+> `D` innovative\
+> `E` conventional
+
+**388.** His ______ bow signaled his place in the strict hierarchy.
+
+> `A` insolent\
+> `B` rebellious\
+> `C` defiant\
+> `D` obeisant\
+> `E` deferential
+
+**389.** Her ______ personality made her the center of any gathering.
+
+> `A` listless\
+> `B` dull\
+> `C` vivacious\
+> `D` lively\
+> `E` lifeless
+
+**390.** He sat ______ in the corner, untouched by the celebration.
+
+> `A` jovial\
+> `B` glum\
+> `C` morose\
+> `D` cheerful\
+> `E` merry
+
+---
+
+## Questions 391-400
+
+**391.** A good translator captures the ______ s a literal version would lose.
+
+> `A` bluntness\
+> `B` crudeness\
+> `C` obviousness\
+> `D` subtlety\
+> `E` nuance
+
+**392.** The beauty of the cherry blossoms is famously ______, lasting little more than a week before the petals fall.
+
+> `A` abiding\
+> `B` perennial\
+> `C` ephemeral\
+> `D` fleeting\
+> `E` enduring
+
+**393.** Her ______ commands left no doubt who ran the household.
+
+> `A` imperious\
+> `B` meek\
+> `C` deferential\
+> `D` domineering\
+> `E` submissive
+
+**394.** Small delays began to ______ the otherwise patient crew.
+
+> `A` annoy\
+> `B` nettle\
+> `C` calm\
+> `D` comfort\
+> `E` soothe
+
+**395.** A minor ______ over seating delayed the ceremony.
+
+> `A` commotion\
+> `B` kerfuffle\
+> `C` order\
+> `D` quiet\
+> `E` calm
+
+**396.** Her ______ father rarely spoke more than a few words at dinner.
+
+> `A` loquacious\
+> `B` garrulous\
+> `C` reticent\
+> `D` voluble\
+> `E` taciturn
+
+**397.** Her ______ of gratitude embarrassed the modest volunteer.
+
+> `A` effusion\
+> `B` reserve\
+> `C` restraint\
+> `D` reticence\
+> `E` outpouring
+
+**398.** He pitied what he saw as a ______ age of superstition.
+
+> `A` cultured\
+> `B` learned\
+> `C` unenlightened\
+> `D` enlightened\
+> `E` benighted
+
+**399.** The columnist would ______ against every policy she disliked.
+
+> `A` praise\
+> `B` fulminate\
+> `C` commend\
+> `D` endorse\
+> `E` rail
+
+**400.** The ______ creditor refused to extend the deadline by a single day.
+
+> `A` obdurate\
+> `B` accommodating\
+> `C` unyielding\
+> `D` lenient\
+> `E` flexible
 
 ---
 
