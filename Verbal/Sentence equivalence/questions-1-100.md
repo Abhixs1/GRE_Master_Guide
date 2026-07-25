@@ -104,8 +104,6 @@
 > `D` peerless\
 > `E` commonplace
 
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
-
 ---
 
 ## Questions 11-20
@@ -189,8 +187,6 @@
 > `C` humorless\
 > `D` dull\
 > `E` grave
-
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
 ---
 
@@ -276,8 +272,6 @@
 > `D` wordy\
 > `E` rambling
 
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
-
 ---
 
 ## Questions 31-40
@@ -361,8 +355,6 @@
 > `C` calming\
 > `D` irritating\
 > `E` pleasing
-
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
 ---
 
@@ -448,8 +440,6 @@
 > `D` declining\
 > `E` mature
 
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
-
 ---
 
 ## Questions 51-60
@@ -533,8 +523,6 @@
 > `C` cautious\
 > `D` timid\
 > `E` bold
-
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
 ---
 
@@ -620,8 +608,6 @@
 > `D` buoyant\
 > `E` jolly
 
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
-
 ---
 
 ## Questions 71-80
@@ -705,8 +691,6 @@
 > `C` reprehensible\
 > `D` blameworthy\
 > `E` commendable
-
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
 ---
 
@@ -792,8 +776,6 @@
 > `D` dismiss\
 > `E` overlook
 
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
-
 ---
 
 ## Questions 91-100
@@ -877,8 +859,6 @@
 > `C` tactless\
 > `D` suave\
 > `E` polished
-
-<div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
 ---
 
