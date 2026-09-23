@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✍️ GRE AWA — Model Essays & Template
+# ✍️ GRE AWA — Model Essays & Template (4.5 Score Band)
 
-### 10 Model Essays (Score 5.0–6.0) + the Template to Follow
+### 10 Model Essays (Score ~4.5) + the Template to Follow
 
 *Since September 2023, the GRE has only ONE writing task — "Analyze an Issue" (30 minutes). The "Analyze an Argument" task was removed.*
 
-![Essays](https://img.shields.io/badge/model%20essays-10-blue) ![Score](https://img.shields.io/badge/target%20score-5.0–6.0-brightgreen) ![Task](https://img.shields.io/badge/task-analyze%20an%20issue-orange) ![Time](https://img.shields.io/badge/time-30%20min-red)
+![Essays](https://img.shields.io/badge/model%20essays-10-blue) ![Score](https://img.shields.io/badge/target%20score-4.5-yellow) ![Task](https://img.shields.io/badge/task-analyze%20an%20issue-orange) ![Time](https://img.shields.io/badge/time-30%20min-red)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🧭 Contents
 
-- [The 5+ Score Template](#-the-5-score-template)
+- [The 4.5 Score Template](#-the-45-score-template)
 - **Model Essays**
   - [Essay 1 — Universities should require every student to take a variety of cour…](#essay-1)
   - [Essay 2 — As people rely more and more on technology to solve problems, the a…](#essay-2)
@@ -32,37 +32,39 @@
 
 ---
 
-## 📐 The 5+ Score Template
+## 📐 The 4.5 Score Template
 
-**Word count target:** 450–600 words | **Paragraphs:** 5–6
+A 4.5 essay is "adequate": it takes a clear position, organizes ideas competently, and gives at least one relevant example per point — but the analysis stays fairly surface-level, examples are often generic rather than sharply specific, and the discussion of the counterargument is present but thin. This template shows how to reliably hit that band without over- or under-shooting it.
 
-**Paragraph 1 — Introduction (3–4 sentences)**
-- Open with a broad observation about the topic (the "hook")
-- Acknowledge the prompt's claim has some merit
-- State a **nuanced thesis**: agree/disagree *with a qualification* (e.g., "While X is largely true, it fails to account for Y"). Never take a flat 100% position — graders reward nuance.
+**Word count target:** 350–450 words | **Paragraphs:** 4–5
 
-**Paragraph 2 — Strongest supporting point + concrete example**
-- Topic sentence stating your first reason
-- ONE specific, developed example (history, science, business, literature, current affairs)
-- Explain HOW the example proves your thesis (2–3 sentences of analysis)
+**Paragraph 1 — Introduction (2–3 sentences)**
+- Restate the topic in your own words
+- Give a simple, direct position (agree, disagree, or "partly agree")
+- One sentence naming the two reasons you'll cover — no need for a "hook"
 
-**Paragraph 3 — Second supporting point + concrete example**
-- Same structure, different domain of example (variety impresses graders)
+**Paragraph 2 — First reason + one example**
+- Topic sentence stating the reason
+- A general example (a well-known event, a familiar type of situation, or something from school/work) — it doesn't need to be a famous, tightly-documented case
+- One or two sentences saying *why* the example supports the point, without deep analysis
 
-**Paragraph 4 — Concession / counterargument ("However, admittedly...")**
-- Present the strongest objection to your view fairly
-- Then rebut it or show why your position still holds ("Yet this objection overlooks...")
-- This paragraph is what separates 4.0 essays from 5.5–6.0 essays
+**Paragraph 3 — Second reason + one example**
+- Same pattern as Paragraph 2, a different kind of example if possible
 
-**Paragraph 5 — Conclusion (2–3 sentences)**
-- Restate thesis in fresh words
-- End with a broader implication or forward-looking statement
+**Paragraph 4 — A brief counterpoint**
+- One sentence acknowledging the other side exists
+- One sentence saying why your position still holds
+- This paragraph can be short — even 2–3 sentences is enough to show balance
 
-**Language checklist for 5+:**
-- Transitions: *moreover, admittedly, nevertheless, consequently, granted*
-- Vary sentence length; use at least 2–3 complex sentences per paragraph
-- Precise verbs (undermines, catalyzes, exemplifies) instead of "shows/is good"
-- No memorized fluff; every sentence must do work
+**Paragraph 5 — Conclusion (1–2 sentences)**
+- Restate your position
+- No need for a broader implication — a plain restatement is fine
+
+**Language checklist for 4.5:**
+- Basic but correct transitions: *also, however, for example, in conclusion*
+- Mostly simple and compound sentences; one or two complex sentences is enough
+- Clear, everyday vocabulary (avoid reaching for words you're not sure of)
+- Some repetition of key terms is fine — clarity matters more than variety at this level
 
 ---
 
@@ -79,15 +81,15 @@
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Specialization is the engine of modern expertise, yet an education confined to a single discipline risks producing technicians rather than thinkers. While students should retain substantial freedom in shaping their studies, universities are justified in requiring coursework outside the major, because breadth cultivates the very capacities — critical judgment, communication, and creative synthesis — that specialized training alone cannot supply.
+Many universities let students focus almost entirely on their major. The prompt suggests that instead, every student should be required to take courses outside their field. I agree with this idea, because it helps students become more well-rounded and better prepared for the real world.
 
-The most compelling reason for required breadth is that innovation increasingly occurs at the intersection of fields. Steve Jobs famously credited a calligraphy course, taken with no practical goal, for the typography that distinguished the Macintosh. Similarly, the field of bioinformatics emerged only because biologists learned computation and computer scientists learned genetics. A student permitted to burrow exclusively into one department would be systematically deprived of these fertile collisions. Requirements guarantee exposure that voluntary choice, constrained by anxiety about grades and efficiency, often forecloses.
+One reason to support this requirement is that it exposes students to ideas they would never choose on their own. For example, a computer science student who is forced to take a history or art class may discover skills, like writing or creative thinking, that end up being useful later in their career. Without a requirement, many students would simply avoid these classes because they seem unrelated to their goals, and they would miss out on this kind of growth.
 
-Moreover, distribution requirements serve civic and professional ends beyond innovation. An engineer who has never studied ethics may design surveillance tools without weighing their social costs; a literature major who has never confronted statistics may be helpless before misleading claims about medicine or public policy. Democratic societies depend on citizens who can evaluate arguments across domains, and the university is often the last structured opportunity to build that versatility.
+A second reason is that a variety of courses helps students communicate with people outside their own field. In almost any job, people have to work with others who studied something different from them. If an engineer has taken a business class, for instance, they will understand their company's finances better and be able to talk to managers more easily. This kind of broad knowledge makes graduates more useful employees and more informed citizens in general.
 
-Admittedly, critics argue that forced enrollment breeds resentment and half-hearted effort, and that adults should direct their own education. This objection has force: a poorly designed requirement — a random checklist of unrelated classes — can indeed become an empty ritual. Yet the remedy is better design, not abolition. Universities can offer wide menus of options within each required area, letting students choose *which* science or *which* humanities course to take. The requirement sets the destination of breadth; the student still charts the route.
+However, some people argue that required courses waste time and money, especially if a student is not interested in the subject. This is a fair point, since forcing someone to sit through a class they dislike may not lead to real learning. Still, universities can choose to require only a small number of outside courses, so that students still have plenty of room to focus on their major.
 
-In sum, while student autonomy deserves respect, the case for required breadth is stronger. A university's purpose is not merely to certify narrow competence but to form minds capable of connecting ideas across boundaries — and that formation is too important to leave entirely to chance.
+In conclusion, requiring students to take courses outside their major is a good policy because it broadens their skills and knowledge, even though it should be kept to a reasonable amount.
 
 </details>
 
@@ -100,15 +102,15 @@ In sum, while student autonomy deserves respect, the case for required breadth i
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Every transformative tool, from writing to the calculator, has provoked fears that human faculties would wither. The claim that technological reliance will "surely" erode independent thought repeats this anxiety, and it is partly justified — but only partly. Technology degrades thinking when it substitutes for reasoning, yet it amplifies thinking when it removes drudgery and expands access to ideas; the outcome depends on how we use our tools, not on the tools themselves.
+This statement claims that relying on technology will make people worse at thinking for themselves. I only partly agree with this claim. While it is true that technology can make people lazier in some situations, it does not always make people worse thinkers overall.
 
-There is genuine evidence for the pessimistic view. Studies of GPS navigation suggest that habitual users show diminished activity in the hippocampus, the brain region governing spatial memory, and many people now struggle to recall phone numbers they once knew by heart. When a device supplies an answer instantly, the effortful retrieval and problem-solving that build cognitive strength are bypassed. In this narrow sense, offloading does atrophy specific skills.
+One reason technology can weaken independent thinking is that people stop practicing certain skills. For example, many people used to memorize phone numbers or directions, but now they just rely on their phone. Because they no longer practice remembering this information, their memory for these specific things gets worse over time. This shows that when a tool does something for us, we can lose the ability to do it ourselves.
 
-Nevertheless, the sweeping conclusion that people will stop "thinking for themselves" ignores how technology redirects, rather than eliminates, mental effort. The astronomer who no longer computes orbits by hand now interrogates datasets of a scale Kepler could never have imagined; the student who need not memorize dates can spend class time debating causes and consequences. Socrates warned that writing would destroy memory, yet literacy ultimately produced philosophy, science, and history — deeper thought, not less of it. Calculators did not abolish mathematicians; they freed them for abstraction.
+On the other hand, technology also helps people think in new ways. For example, students who use the internet for research can access far more information than students who only had library books in the past. This allows them to compare more sources and form more informed opinions, which is actually a more advanced kind of thinking than just memorizing facts. In this sense, technology does not remove thinking, it just changes what kind of thinking people do.
 
-Admittedly, this optimistic redirection is not automatic. A society that consumes algorithmic feeds passively may indeed reason less, and education systems must deliberately teach skepticism, verification, and mental arithmetic precisely because machines make them optional. The danger is real, but it is a danger of pedagogy and habit, not an inevitability of technology.
+Admittedly, if people use technology carelessly, such as always copying answers instead of trying to solve problems themselves, their thinking skills could get weaker. This is a real risk that schools and parents need to pay attention to.
 
-Therefore, the prompt's fatalism is unwarranted. Human thinking has always co-evolved with its instruments. Whether reliance on technology dulls or sharpens the mind will be decided by the choices of educators, designers, and users — which is itself the strongest proof that thinking for ourselves remains both possible and necessary.
+In conclusion, technology does not automatically make people unable to think for themselves. It can weaken certain specific skills, like memory, but it can also support other kinds of thinking, so the claim that thinking will "surely" get worse is too strong.
 
 </details>
 
@@ -121,15 +123,15 @@ Therefore, the prompt's fatalism is unwarranted. Human thinking has always co-ev
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Societies have long debated whether leaders are forged in contest or in collaboration. The prompt's preference for cooperation captures an important truth — modern leadership is overwhelmingly the art of coordinating others — but its dismissal of competition is too absolute. The soundest preparation blends both: cooperation as the foundation, competition as a disciplined supplement.
+The prompt claims that cooperation, not competition, is the best way to prepare young people for leadership. I agree with this idea for the most part, because most leadership roles today require working well with other people rather than simply beating them.
 
-Cooperation deserves primacy because virtually every consequential achievement today is collective. The Apollo program succeeded not because of a lone genius but because four hundred thousand engineers, seamstresses, and mathematicians synchronized their work; the rapid development of COVID-19 vaccines depended on unprecedented data-sharing among rival laboratories and governments. A young person trained only to defeat peers will struggle in institutions where success means eliciting the best from teammates, negotiating among stakeholders, and building trust. Leadership scholars consistently find that the ability to listen and delegate predicts executive success more reliably than raw dominance.
+First, cooperation is important because leaders almost always have to manage teams. A manager who only knows how to compete cannot easily get their employees to work together toward a shared goal. For example, group projects in school teach students how to divide work, listen to others' ideas, and reach a decision together, which are skills they will use later as leaders in a company or government office. These are exactly the kind of skills that competition alone does not teach.
 
-Furthermore, cultures of pure competition carry documented costs. Schools that rank students relentlessly report higher rates of cheating and anxiety, and companies such as Enron, which famously ranked and fired the bottom slice of employees each year, cultivated the secrecy and short-termism that destroyed them. If preparation for leadership means preparation for sound judgment, environments that reward sabotage over candor are actively miscarriage.
+Second, too much competition can create a negative environment. If young people are taught mainly to compete, they may learn to see their coworkers as rivals instead of partners. This can lead to problems such as employees hiding information from each other or refusing to help one another, which makes an organization weaker overall. A cooperative mindset avoids these problems and creates a healthier workplace.
 
-Nevertheless, competition, properly bounded, supplies benefits cooperation cannot. Contests reveal standards of excellence, teach young people to perform under pressure, and — crucially — to lose with grace and persist afterward, an experience every leader eventually needs. Athletes shake hands after the final whistle precisely because sport frames rivalry inside mutual respect. The flaw lies not in competition itself but in zero-sum cultures that detach it from shared purpose.
+However, competition is not completely useless. It can push people to work harder and improve their skills, and some level of competition exists in almost every field, whether in sports or business. So while cooperation should be the main focus, a small amount of competition can still be a helpful motivator.
 
-In conclusion, a society should indeed make cooperation the core of its formation of leaders, for leadership is ultimately service to a group. But it should retain competition as a training ground for resilience and excellence. The finest leaders compete hard against problems and cooperate generously with people.
+In conclusion, instilling cooperation in young people is generally a better way to prepare them for leadership than instilling competition, although competition still has some value in smaller amounts.
 
 </details>
 
@@ -142,15 +144,15 @@ In conclusion, a society should indeed make cooperation the core of its formatio
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-The demand that governments attend first to hunger, housing, and disease has undeniable moral force; no state should chase the stars while its citizens sleep in them. Yet the prompt presents a false choice. Because today's "practical" solutions are almost always yesterday's speculative research, a government that funds only the immediate mortgages its capacity to solve any future problem at all.
+This statement argues that governments should spend money on today's problems instead of research with uncertain benefits. I disagree with this statement, because scientific research often ends up solving the immediate problems of the future, even if we cannot predict exactly how.
 
-History repeatedly shows that transformative practical benefits emerge from research pursued without practical intent. The scientists who studied obscure heat-resistant bacteria in Yellowstone's springs could not have foreseen that their work would enable PCR, the technique underlying modern medical diagnostics and forensic science. NASA's Apollo program — often derided as extravagance amid 1960s poverty — yielded advances in miniaturized computing, water purification, and materials science that now serve billions. mRNA vaccine research languished for decades as an intellectual curiosity before it saved millions of lives in a pandemic. Had budgets been governed strictly by immediacy, none of these tools would exist when crisis demanded them.
+One reason to support research funding is that many important inventions came from research that did not seem useful at first. For example, space exploration programs led to new technology that is now used in everyday products, even though people at the time complained that the money should have gone to more immediate needs. If governments had cut this funding, we might not have some of the tools we use today.
 
-Moreover, exclusive focus on present problems is self-defeating even on its own terms. Immediate problems — famine, epidemic disease, energy scarcity — are ultimately solved by knowledge: higher-yield crops from agricultural science, antibiotics from microbiology, cheaper solar cells from physics. Research funding is not a rival to problem-solving; it is the supply chain of problem-solving.
+Another reason is that immediate problems, like disease or hunger, are often solved because of earlier scientific research. Vaccines and better farming methods, for instance, exist because scientists spent years studying problems before they became emergencies. If governments only fund short-term solutions, they may not be prepared for future crises that require this kind of background knowledge.
 
-Admittedly, the objection contains a legitimate kernel: governments can misallocate, funding prestige projects while basic needs go unmet, and a starving population cannot wait decades for trickle-down discoveries. A defensible budget therefore weights urgent welfare heavily and subjects research to honest review. But this is an argument for proportion, not for abandonment. Most developed nations spend under three percent of GDP on research — hardly a raid on the poor.
+Admittedly, governments do have limited budgets, and there are real, urgent problems such as poverty and healthcare that need money right away. It would not be responsible to spend all of a budget on uncertain research while ignoring these needs. Because of this, a balance between the two is probably the most realistic approach.
 
-In the end, a wise government walks on two legs: it relieves today's suffering while planting the knowledge from which tomorrow's relief will grow. To cut the second in the name of the first is not prudence but a slow-motion emergency of its own making.
+In conclusion, while immediate needs are important, governments should not stop funding scientific research, since it often becomes the solution to tomorrow's immediate problems.
 
 </details>
 
@@ -163,15 +165,15 @@ In the end, a wise government walks on two legs: it relieves today's suffering w
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Are leaders born, made by circumstance, or self-made? The prompt sides with circumstance, and there is much to recommend this view: crises repeatedly elevate previously unremarkable figures. Yet demands alone forge nothing without material to work on. Circumstance is the crucible of leadership, but character and preparation are the ore; the claim is therefore half right.
+The prompt claims that leaders are created by the demands placed on them, meaning that circumstances, not natural ability, make someone a leader. I partly agree with this statement, because many people become leaders only after being placed in a difficult situation, although I don't think demands alone are enough.
 
-The strongest evidence for the prompt is that many celebrated leaders were undistinguished until events summoned them. Before 1940, Winston Churchill was widely regarded as a talented but erratic politician whose career had peaked; the demand of confronting Nazi Germany transformed his stubbornness and rhetoric from liabilities into the instruments of national survival. Similarly, Volodymyr Zelensky, a comedian turned president with middling approval ratings, became a globally recognized wartime leader within days of Russia's 2022 invasion. Absent those demands, neither man's latent capacities would have found expression. In this sense, occasions do not merely reveal leaders — they activate them.
+One reason to support this view is that history shows many ordinary people becoming leaders once a crisis forced them to act. For example, during wars or natural disasters, people who were not originally in charge often step up because the situation demands it, and they end up showing leadership qualities that were not obvious before. Without that demanding situation, these people might never have become known as leaders at all.
 
-However, the same examples expose the claim's limit: demands were placed on many people simultaneously, and only some rose. France faced the identical crisis as Britain in 1940 and produced capitulation alongside de Gaulle's defiance. Clearly, the demand is a necessary spark but not a sufficient cause; it ignites only where preparation, conviction, and temperament already exist. Churchill had spent decades studying history and warning about Hitler. Chance, as Pasteur said of science, favors the prepared mind — and crisis favors the prepared character.
+However, not everyone who faces a demanding situation becomes a good leader. Some people panic or fail when placed under pressure, while others succeed. This suggests that demands alone do not create leadership; the person also needs some existing qualities, such as confidence or good judgment, for the demand to bring out leadership in them.
 
-Admittedly, one might rescue the prompt by noting that even preparation is itself a response to earlier, smaller demands: the young officer shaped by minor commands, the student shaped by responsibility. This is fair, and it suggests demands operate cumulatively rather than in a single heroic moment.
+Because of this, I think the statement is only partly true. Demands can reveal or strengthen leadership, but they do not create it out of nothing. A person with no leadership qualities at all is unlikely to suddenly become a great leader just because a difficult situation arises.
 
-On balance, then, leaders are *completed* by the demands placed upon them, not created from nothing. Societies that wish for good leaders should therefore not wait for crises to conjure them, but should distribute meaningful responsibility early and widely — manufacturing, in effect, the small demands from which great responders grow.
+In conclusion, while demanding situations can push people into leadership roles and help them grow, they work together with a person's existing abilities rather than creating leadership completely on their own.
 
 </details>
 
@@ -184,15 +186,15 @@ On balance, then, leaders are *completed* by the demands placed upon them, not c
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-It is tempting to dismiss scandals as society's junk food — sensational, distracting, and empty. The prompt counters that scandals are uniquely clarifying, and history partly vindicates it: outrage often accomplishes in weeks what earnest reformers could not in decades. Yet scandals are unreliable teachers, illuminating some problems while distorting or obscuring others; they are useful catalysts but poor guides.
+This statement claims that scandals are useful because they draw attention to problems better than any speaker or reformer can. I agree with this to some extent, because scandals do tend to get more public attention than speeches, although they are not always the best way to fix a problem.
 
-The affirmative case is strong. Reformers had criticized abuses of executive power for years, but it took Watergate to produce campaign-finance laws, the FOIA strengthening, and an enduring public skepticism of presidential secrecy. Likewise, decades of quiet advocacy against workplace harassment achieved less visible change than the #MeToo revelations of 2017, which toppled powerful figures and rewrote corporate policy within months. Scandal succeeds where speeches fail because it converts abstraction into narrative: a named villain, a documented act, an identifiable victim. Human attention, wired for story, responds to Harvey Weinstein as it never responds to a statistical report on harassment.
+One reason scandals are useful is that they make abstract problems feel real and urgent. For example, when a company is caught doing something wrong, like mistreating workers or lying to customers, the news coverage of the scandal often causes far more public outrage than years of activists simply talking about the issue. This attention can lead to quick changes in laws or company policy that might not have happened otherwise.
 
-Nevertheless, the same mechanism that empowers scandal also corrupts it. Because attention follows drama rather than magnitude, scandals systematically misallocate concern. A politician's personal indiscretion can dominate headlines while slow catastrophes — pension insolvency, antibiotic resistance, learning loss — proceed unexamined precisely because they lack a lurid moment. Worse, scandal-driven reform tends to be spasmodic: rules written in fury often address the last outrage rather than the underlying system, and public attention evaporates before implementation, as the fading follow-through on many corporate scandals attests.
+However, scandals also have downsides that speeches and calm reform efforts do not have. Because scandals are dramatic and emotional, people sometimes focus on the wrong details, such as blaming one person instead of fixing the larger system that allowed the problem to happen. Once the news coverage fades, public attention often moves on before the real problem is solved, whereas reformers who work steadily over time may achieve more lasting change.
 
-Admittedly, defenders may reply that imperfect attention is better than none. True — but this concedes that scandals are useful only as ignition, not as steering.
+Because of this, I believe scandals are useful mainly for grabbing attention quickly, but they should not replace the slower work of reformers and speakers who explain problems clearly and push for long-term solutions.
 
-In conclusion, the prompt is right that scandals focus attention with unmatched force, but wrong to imply this makes speakers and reformers dispensable. Scandal supplies the spark of public will; deliberate reformers must supply the direction. A society that relies on outrage alone will forever treat symptoms loudly and causes not at all.
+In conclusion, scandals are useful tools for focusing public attention, but they work best when combined with, not instead of, the efforts of speakers and reformers.
 
 </details>
 
@@ -205,15 +207,15 @@ In conclusion, the prompt is right that scandals focus attention with unmatched 
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Cities are civilization's loudest voices: they concentrate a society's wealth, art, ambition, and contradictions. The prompt is therefore persuasive as far as it goes — no one can grasp modern Japan without Tokyo or Renaissance Italy without Florence. But loudest is not the same as most representative. Major cities reveal what a society aspires to and celebrates; they often conceal how most of its people actually live. Understanding requires the city and its hinterland together.
+The prompt claims that studying a society's major cities is necessary to understand its most important characteristics. I partly agree with this claim, because cities do reveal a lot about a society, but I don't think they tell the whole story.
 
-The case for cities is genuine. Because they gather elites, institutions, and migrants, cities become laboratories where a society's defining tensions play out visibly. New York's skyline narrates American capitalism; its neighborhoods narrate American immigration; its protests narrate American dissent. Historians reconstruct Roman values largely from Rome itself — its forums, baths, and games — because the capital crystallized what the empire honored. Cities also lead change: revolutions from Paris in 1789 to Cairo in 2011 erupted in urban squares, making cities the best vantage point for seeing where a society is heading.
+One reason to support this claim is that major cities usually contain a society's most important institutions, such as its government buildings, universities, and businesses. For example, someone who visits a country's capital city can learn a lot about its politics, economy, and culture just by seeing how the city is organized and what kind of buildings and activities are common there. This makes cities a useful and efficient place to start understanding a society.
 
-Yet the exclusive focus the prompt demands would produce systematic error. In many nations, the metropolis is an island economically and culturally detached from the country it nominally represents. An observer studying only Lagos or Mumbai would badly misjudge the agrarian realities, religious practices, and incomes of the Nigerian or Indian majority. Political analysts who inferred national moods from London and New York famously failed to anticipate the Brexit vote and the 2016 American election — verdicts delivered by towns and rural counties the urban lens never saw. Where cities show aspiration, the countryside often shows tradition, grievance, and continuity, which are equally "important characteristics."
+However, cities do not represent everyone in a society. Many countries have large populations living in smaller towns or rural areas, and these people may have very different lifestyles, values, and problems than people living in a big city. If someone only studies a country's major cities, they might get a very one-sided view and miss important parts of that society's culture and daily life, such as traditional customs that are stronger outside of cities.
 
-Admittedly, urbanization is making the prompt truer over time; as majorities move to cities, the gap between city and society narrows. But even megacities remain internally unrepresentative, their glittering centers hiding peripheral slums.
+Because of this, I think studying major cities is a helpful and important starting point, but it should not be the only method used to understand a society, since it leaves out large parts of the population.
 
-In sum, major cities are an indispensable text for reading a society, but they are one chapter, not the book. The observer who mistakes the capital for the country will understand a society's advertisement of itself — and little more.
+In conclusion, major cities are important for understanding a society, but a full understanding also requires looking beyond the cities to smaller towns and rural areas.
 
 </details>
 
@@ -226,15 +228,15 @@ In sum, major cities are an indispensable text for reading a society, but they a
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Law aspires to two virtues that pull in opposite directions: certainty, which lets citizens plan their lives, and justice, which demands sensitivity to particular cases. The prompt champions flexibility, and rightly so — rigid law calcifies into injustice. Yet flexibility without firm limits dissolves into arbitrariness. The best legal systems are therefore firm in principle and flexible in application.
+This statement argues that laws should be flexible so they can adjust to different circumstances, times, and places. I agree with this statement, because a law that never changes can end up being unfair in situations the lawmakers did not originally think of.
 
-Flexibility is indispensable because no legislator can foresee every circumstance. A fixed rule that "vehicles are prohibited in the park" reads absurdly when applied to an ambulance answering an emergency. Recognizing this, mature systems build in adaptive mechanisms: judges consider intent and context, sentencing ranges distinguish the desperate first offender from the career criminal, and constitutional interpretation has allowed an eighteenth-century American document to govern a world of internet speech and genetic engineering. Laws frozen against time fare worse: statutes criminalizing interracial marriage or restricting women's property persisted as monuments to their era's blindness until flexibility — through amendment and reinterpretation — corrected them.
+One reason flexibility is important is that circumstances can make a strict rule unreasonable. For example, a law that bans all vehicles from entering a park might make sense most of the time, but it becomes a problem if an ambulance needs to reach someone having a medical emergency inside the park. If judges and officials are allowed some flexibility, they can make an exception in cases like this without breaking the overall purpose of the law.
 
-Furthermore, flexibility across places respects legitimate diversity. Federal systems let water law differ between arid and rain-rich regions, and international norms allow nations to implement shared principles through local institutions. A single inflexible code imposed everywhere mistakes uniformity for fairness.
+Another reason is that societies change over time, and laws written many years ago do not always fit modern situations. For example, older laws about communication or privacy were written before the internet existed, so courts have had to interpret them flexibly to apply to new technology. Without this flexibility, many modern problems would have no clear legal answer at all.
 
-Nevertheless, the concession must be substantial: flexibility is also the historic disguise of tyranny and bias. Where officials may bend rules "to circumstances," the powerful receive understanding and the powerless receive punishment; studies of discretionary sentencing have repeatedly revealed racial disparities that fixed guidelines were designed to curb. Vague, endlessly pliable laws also chill liberty, since no one can know in advance what is forbidden. Hence the ideal is bounded discretion — flexibility exercised within published principles, subject to appeal and reason-giving.
+However, too much flexibility can also be a problem, because it can lead to unfair or inconsistent decisions if officials are allowed to interpret laws however they want. This is why flexibility should have limits, such as clear guidelines that judges must follow, so that the law stays fair for everyone.
 
-In conclusion, laws should indeed take account of circumstances, times, and places, because justice lives in particulars. But that flexibility must itself be governed by transparent limits, lest the cure for rigidity become the disease of caprice. Law, like a bridge, must flex in the wind precisely because its foundations do not move.
+In conclusion, laws should be flexible enough to adapt to different situations and time periods, but this flexibility needs some limits to prevent it from being used unfairly.
 
 </details>
 
@@ -247,15 +249,15 @@ In conclusion, laws should indeed take account of circumstances, times, and plac
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-The romantic image of the lone genius creating from nothing dies hard, but the prompt is essentially correct: significant contribution presupposes deep engagement with what came before. Even the great rebels of every field were, first, its great students. The claim requires only one refinement — influence includes reaction *against* the past, not merely continuation of it.
+The prompt claims that no one can make a significant contribution to a field without first being influenced by that field's past achievements. I agree with this statement, because it is very difficult to improve on something without first understanding what has already been done.
 
-The clearest evidence comes from science, where knowledge is explicitly cumulative. Newton's remark that he stood "on the shoulders of giants" was literal description: his mechanics synthesized Kepler's orbital laws and Galileo's kinematics. Einstein, often miscast as an outsider who overthrew physics from a patent office, had in fact absorbed Maxwell's electromagnetism and Mach's critiques so thoroughly that relativity emerged as a resolution of tensions the tradition itself had exposed. One cannot solve a field's deepest problems without first learning what the field considers a problem.
+One reason to support this claim is that most fields build on earlier discoveries and ideas. For example, in science, students spend years learning established theories before they are able to conduct their own research or make new discoveries. A scientist cannot improve on a theory they have never learned, so studying past work is a necessary first step before contributing something new.
 
-The pattern holds even in the arts, where originality is the highest prize. Picasso could shatter perspective in *Les Demoiselles d'Avignon* only because years of academic mastery taught him precisely which conventions he was breaking — and his rupture drew openly on Cézanne and African sculpture. Jazz innovators like Charlie Parker practiced the standards obsessively before transfiguring them. Revolutions in art are arguments with tradition, and one cannot argue with what one does not know.
+The same idea applies outside of science as well. In art or music, for example, many famous artists studied earlier styles and techniques before creating their own unique work. Even artists who are known for breaking traditional rules usually learned those rules first, which allowed them to understand exactly what they were changing.
 
-Admittedly, apparent counterexamples exist: self-taught outsiders such as the mathematician Ramanujan, who derived astonishing results in near-isolation. Yet even Ramanujan's genius was ignited by a borrowed textbook of theorems — past achievement in compressed form — and his results became *significant contributions* only when Hardy connected them to the existing edifice of number theory. An insight unconnected to a field's accumulated conversation may be brilliant, but it cannot contribute to a field it never joins.
+Admittedly, there might be rare cases of self-taught individuals who make discoveries with very little formal training. However, even these people are usually influenced by past achievements in some way, such as through books or basic information they picked up informally, so they are not making contributions with zero knowledge of their field's history.
 
-In conclusion, the prompt stands. Fields are ongoing conversations, and significant contribution means saying something new *within* that conversation — whether by extending past achievements or by overturning them. Either way, the past speaks first.
+In conclusion, being influenced by past achievements seems to be a necessary step for making a significant contribution in almost any field, since new ideas are usually built on top of older ones.
 
 </details>
 
@@ -268,15 +270,15 @@ In conclusion, the prompt stands. Fields are ongoing conversations, and signific
 <details>
 <summary>📖 <strong>Read the model essay</strong></summary>
 
-Grand ideas, we assume, must have grand origins. The prompt attractively inverts this, locating genius in fascination with the ordinary, and it captures a real pattern: many transformative insights began as obsessive attention to things everyone else overlooked. Yet "best ideas" arise from at least two other springs as well — crisis and deliberate abstraction — so the claim describes one royal road to insight, not the only one.
+This statement claims that the best ideas come from a strong interest in ordinary, everyday things. I partly agree with this claim, because paying close attention to common things can lead to great discoveries, although I don't think this is the only source of great ideas.
 
-The supporting evidence is rich. Darwin spent eight years scrutinizing barnacles and a lifetime observing earthworms, pigeons, and garden orchids; from this passion for the commonplace grew the theory of natural selection, arguably biology's best idea. Alexander Fleming's attention to a contaminated, seemingly ruined petri dish — an everyday laboratory annoyance — yielded penicillin. The Wright brothers, bicycle mechanics, translated their intimacy with a mundane machine's balance into controlled flight. In each case, the commonplace was a laboratory hiding in plain sight, and passion supplied the sustained attention that cursory glances never achieve. What we call genius is often ordinary observation continued past the point where others stop.
+One reason to support this claim is that many important discoveries came from people who were fascinated by simple, everyday observations. For example, scientists who study ordinary things like plants or insects have made major discoveries in biology simply because they paid closer attention to something most people ignore. Their passion for something common allowed them to notice details that other people would have missed.
 
-Nevertheless, the superlative "best" overreaches. Some of humanity's most powerful ideas arose not from everyday things but from problems remote from all common experience: non-Euclidean geometry, quantum mechanics, and Turing's theory of computation emerged from abstract puzzles pursued for their internal logic. Others were forced by extraordinary circumstance rather than quiet fascination — radar, mass vaccination, and the internet's precursors were answers to war and crisis. A complete map of innovation therefore needs three territories: the commonplace observed with passion, the abstract pursued with rigor, and the emergency met with ingenuity.
+However, not all great ideas come from commonplace things. Some of the most important ideas in history, such as advanced theories in physics or mathematics, came from people thinking about abstract problems that have nothing to do with everyday life. These ideas required deep, specialized study rather than curiosity about ordinary objects, which shows that passionate interest in common things is not the only path to a great idea.
 
-Admittedly, one might stretch the prompt to cover these cases — even quantum theory began with a "commonplace" glowing filament — but at that point the claim becomes true only by becoming vague.
+Because of this, I think the statement is true in many cases, but it is too strong to say that this is the source of the "best" ideas overall. Great ideas can come from both ordinary curiosity and abstract, specialized thinking.
 
-In conclusion, the prompt names a genuine and underappreciated source of great ideas: love for what everyone else ignores. Educators and researchers should honor it by rewarding curiosity about the ordinary. But the best ideas have no single birthplace; they arise wherever passionate attention, whatever its object, refuses to look away.
+In conclusion, a passionate interest in commonplace things can lead to great ideas, but it is not the only way great ideas are created, so the statement is only partly correct.
 
 </details>
 
@@ -284,11 +286,11 @@ In conclusion, the prompt names a genuine and underappreciated source of great i
 
 ## ✅ Final Checklist Before Test Day
 
-1. **Practice the template until automatic** — you should spend 3–4 min planning, 22–24 min writing, 2–3 min proofreading.
-2. **Bank 15–20 flexible examples** (Churchill, Darwin, Apollo program, #MeToo, Enron, Ramanujan, GPS studies, mRNA vaccines...) — most fit many prompts.
-3. **Always concede before you conclude** — the "Admittedly... Yet..." paragraph is the single biggest score-raiser.
-4. **Never write a flat agree/disagree thesis** — always qualify ("largely true, but...").
-5. **Proofread for the big three:** subject-verb agreement, sentence fragments, repeated words.
+1. **Follow the 4-5 paragraph structure consistently** — spend about 3 minutes planning, 23–25 minutes writing, 2 minutes proofreading.
+2. **Keep 5–8 simple, flexible examples ready** (school group projects, a well-known invention, a general crisis/war example, a general science discovery) — they don't need to be highly specific.
+3. **Always include a short counterpoint paragraph** — even a few sentences acknowledging the other side is enough to avoid a one-sided essay.
+4. **Take a clear position, with a mild qualifier if needed** ("I agree, but...", "I partly agree...") — avoid extreme, unsupported claims.
+5. **Proofread for basic correctness:** subject-verb agreement, complete sentences, and consistent verb tense — small, clean sentences are safer than complex ones you're not sure of.
 
 <div align="right"><a href="#-contents">⬆ back to contents</a></div>
 
